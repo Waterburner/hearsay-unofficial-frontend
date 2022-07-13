@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 
 import { NavLink } from "react-router-dom";
 
-export default function () {
+export default function MenuNavigation() {
     return (
         <div className="menu-navigation">
             <p>What would you like to learn?</p>

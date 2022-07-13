@@ -2,7 +2,7 @@ import React from "react";
 
 import { NavLink } from "react-router-dom";
 
-export default function () {
+export default function Credits() {
     return (
         <div className="credits-wrapper">
             <div className="credits">

@@ -1,6 +1,6 @@
-import React, { Component } from "react";
+import React from "react";
 
-export default function () {
+export default function Footer() {
     return (
         <div className="footer-wrapper">
             {/* bg link 

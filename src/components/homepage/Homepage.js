@@ -1,7 +1,7 @@
-import React, { Component } from "react";
+import React from "react";
 import MenuNavigation from "./MenuNavigation";
 
-export default function () {
+export default function Homepage() {
     return (
         <div className="homepage">
             <div className="homepage-wrapper">

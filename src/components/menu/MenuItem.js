@@ -1,4 +1,4 @@
-import React, { Component, useState, useEffect } from "react";
+import React, { Component } from "react";
 
 // localhost:5000/
 
@@ -52,8 +52,9 @@ export default class MenuItem extends Component {
     // }
 
     displayImg() {
-        if (this.props.item_img_link != "null") {
+        if (this.props.item_img_link !== "null") {
             return (
+                // eslint-disable-next-line
                 <img
                     className="image"
                     src={this.props.item_img_link}
@@ -61,6 +62,7 @@ export default class MenuItem extends Component {
                 />
             );
         } else {
+            // eslint-disable-next-line
             return <img className="image" alt="No picture yet…" />;
         }
     }

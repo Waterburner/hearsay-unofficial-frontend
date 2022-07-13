@@ -9,7 +9,6 @@ export default class Menus extends Component {
             menus: [],
             isLoading: false,
         };
-        this.getMenus();
     }
     // address to backend server (fetch data from DB)
     backend_server_menus =
@@ -37,7 +36,7 @@ export default class Menus extends Component {
                     navLinkTarget = "/menu/" + navLinkTarget;
 
                     return (
-                        <div className="menu-item-wrapper">
+                        <div className="menu-item-wrapper" key={item + index}>
                             <NavLink to={navLinkTarget}>{item}</NavLink>
                         </div>
                     );
@@ -46,8 +45,12 @@ export default class Menus extends Component {
         );
     }
 
+    componentDidMount() {
+        this.getMenus();
+    }
+
     render() {
-        if (this.state.isLoading == true) {
+        if (this.state.isLoading === true) {
             return <li>still loading…</li>;
         }
 

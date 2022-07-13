@@ -1,10 +1,10 @@
-import React, { Component } from "react";
+import React from "react";
 
-import headerLogo from "../../static/assets/hearsay_logo.png";
+import headerLogo from "../assets/hearsay_logo.png";
 
 import { NavLink } from "react-router-dom";
 
-export default function () {
+export default function Header() {
     // temp
     const updatedDate = "January 2022";
     const burgerStyle = { fontSize: "2rem", textAlign: "center" };
