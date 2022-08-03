@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import MenuItem from "./MenuItem";
-// import MenuItem from "./MenuItem";
 
 export default class AllMenuItems extends Component {
     constructor() {
@@ -19,8 +18,10 @@ export default class AllMenuItems extends Component {
                 response: [],
             },
         };
+    }
+
+    componentDidMount() {
         this.getItems();
-        this.listItems();
     }
 
     // address to backend server (fetch data from DB)
@@ -28,7 +29,8 @@ export default class AllMenuItems extends Component {
     // backend_server_menus = "http://localhost:5000/allmenus";
     // backend_server_item_names = "http://localhost:5000/allitems_detailed";
     backend_server =
-        "https://hearsay-unofficial-backend.herokuapp.com/allitems_detailed";
+        // "https://hearsay-unofficial-backend.herokuapp.com/allitems_detailed";
+        "http://localhost:5000/allitems_detailed";
 
     getItems() {
         fetch(this.backend_server)
@@ -73,15 +75,19 @@ export default class AllMenuItems extends Component {
         const { data } = this.state;
         return (
             data.response.length > 0 &&
-            data.response[0].map((item_name, count) => {
-                return (
-                    <MenuItem
-                        item_name={item_name}
-                        item_description={this.state.data.response[1][count]}
-                        item_img_link={this.state.data.response[2][count]}
-                        key={count}
-                    />
-                );
+            data.response.map((menu, count_menu) => {
+                return menu.map((item_name, count_name) => {
+                    return (
+                        <MenuItem
+                            item_name={item_name[0][count_name]}
+                            item_description={
+                                this.state.data.response[count_menu][count_name]
+                            }
+                            item_img_link={this.state.data.response[2]}
+                            key={count_menu + count_name}
+                        />
+                    );
+                });
             })
         );
     }
