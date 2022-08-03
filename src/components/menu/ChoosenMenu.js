@@ -133,7 +133,8 @@ export default function ChoosenMenu(params) {
     if (menus_actual_name.length > 0) {
         fetch(
             // `https://hearsay-unofficial-backend.herokuapp.com/menu_id=${slug}`
-            `http://localhost:5000/menu=${menus_actual_name}`
+            // `http://localhost:5000/menu=${menus_actual_name}`
+            `http://127.0.0.1:5000/menu=${menus_actual_name}`
         )
             .then((response) => response.json())
             .then((data) => setData([data]))
@@ -143,10 +144,27 @@ export default function ChoosenMenu(params) {
     }
 
     function displayMenuName() {
+        const fixTheDisplayName = (input_phrase) => {
+            let newPhrase_array = input_phrase.split("_");
+            let display = "";
+            newPhrase_array.map((word) => {
+                return (display =
+                    display +
+                    word.charAt(0).toUpperCase() +
+                    word.slice(1).toLowerCase() +
+                    "_");
+            });
+            display = display.replaceAll("_", " ");
+            display = display.slice(0, -1);
+            return display;
+        };
+
         if (menus_actual_name.length > 0) {
+            let display_name = fixTheDisplayName(menus_actual_name);
+
             return (
                 <div className="choosen-menu-title-wrapper">
-                    <h2 className="choosen-menu-title">{menus_actual_name}</h2>
+                    <h2 className="choosen-menu-title">{display_name}</h2>
                 </div>
             );
         }
@@ -171,24 +189,13 @@ export default function ChoosenMenu(params) {
                     <MenuItem
                         item_name={item_name}
                         item_description={menu_item_descriptions_list[index]}
-                        // item_img_link={menu_item_img_links_list[index]}
-                        // item_scan_link={menu_item_scan_links_list[index]}
+                        item_img_link={menu_item_img_links_list[index]}
+                        item_scan_link={menu_item_scan_links_list[index]}
                     />
                 );
             });
-
-            // return data[1].map((data) => {
-            //     return data.map((item_name, count) => {
-            //         return (
-            //             <MenuItem
-            //                 item_name={item_name}
-            //                 item_description={data[1][count]}
-            //                 item_img_link={data[2][count]}
-            //                 key={count}
-            //             />
-            //         );
-            //     });
-            // });
+        } else {
+            return <h2> Loading… </h2>;
         }
     }
 
