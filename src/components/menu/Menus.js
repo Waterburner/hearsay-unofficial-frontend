@@ -12,7 +12,7 @@ export default class Menus extends Component {
     }
     // address to backend server (fetch data from DB)
     backend_server_menus =
-        // "https://hearsay-unofficial-backend.herokuapp.com/allmenus";
+        // "https://hearsay-unofficial-backend.herokuapp.com/menus";
         "http://localhost:5000/menus";
 
     getMenus() {
