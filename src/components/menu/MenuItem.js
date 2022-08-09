@@ -52,18 +52,24 @@ export default class MenuItem extends Component {
     // }
 
     displayImg() {
-        if (this.props.item_img_link !== "null") {
+        let no_img =
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/300px-No_image_available.svg.png";
+
+        if (
+            this.props.item_img_link !== "null" ||
+            this.props.item_img_link !== "none"
+        ) {
             return (
                 // eslint-disable-next-line
                 <img
                     className="image"
                     src={this.props.item_img_link}
-                    alt="food image goes here"
+                    alt={no_img}
                 />
             );
         } else {
             // eslint-disable-next-line
-            return <img className="image" alt="No picture yet…" />;
+            return <img className={no_img} alt="No picture yet…" />;
         }
     }
 
