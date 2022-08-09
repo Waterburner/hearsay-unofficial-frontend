@@ -81,7 +81,7 @@ export default function GuestApproach() {
                     see that guests are ready — approach them and ask if they
                     have any questions or they're ready to order.
                     <br />
-                    If the guest ordering{" "}
+                    If the guest ordering
                     <b className="option">a salad as meal </b> ask would they
                     like to add any chincken, shrimp or salmon on that salad.
                     You can always ask to add shrimp to salad that has chicken
@@ -92,6 +92,12 @@ export default function GuestApproach() {
                     temperature how it's going to be (med rare — worm red
                     center, etc). After that you can ask if they would like to
                     add shrimp to the steak. <br />
+                    If guest is ordering
+                    <b className="option">salmon or pork chop</b> — mention that
+                    the default temperature is medium well (some ppl like salmon
+                    less or more cooked. Also some people are scared of
+                    undercooked pork).
+                    <br />
                     If the guest choosing
                     <b className="option">a soup as meal</b> — ask if they want
                     to add a salad as well to the order. <br />
@@ -106,6 +112,10 @@ export default function GuestApproach() {
                     </b>
                     — inform them that soup or salads sold saperatly and/or that
                     we don't have "side salad". <br />
+                    After everyone is ordered double check with them ("let me
+                    /double/ check if I have everything right"). Make sure
+                    you're naming all of the modifications and sides to minimize
+                    possibility of mistakes. <br />
                 </p>
             </div>
         </div>
