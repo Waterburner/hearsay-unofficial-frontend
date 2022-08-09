@@ -58,11 +58,11 @@ export default class Menus extends Component {
         return (
             <div className="menus-wrapper">
                 <div className="menu-navigation">
-                    <h3 className="menus-head">select a menu</h3>
+                    <h3 className="menus-head">SELECT A MENU</h3>
 
                     {this.listMenus()}
                     <div className="menu-item-wrapper">
-                        <NavLink to="/allmenuitems">All menu items</NavLink>
+                        {/* <NavLink to="/allmenuitems">All menu items</NavLink> */}
                     </div>
                 </div>
             </div>
