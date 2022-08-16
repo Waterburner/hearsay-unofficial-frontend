@@ -237,6 +237,43 @@ a {
 }
 // ================ END OF MENUITEM =================
 
+// ================ GUEST APPROACH GUIDE =================
+
+.guest-approach {
+    text-align: center;
+    h1 {
+        font-size: $menus-head-font-size;
+    }
+    .section-header {
+        font-size: $item-title-font-size;
+        color: $hearsay-maroon;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-decoration: underline;
+    }
+    .section-description {
+        font-size: $description-font-size;
+    }
+    ul {
+        padding: 20px 0 10px 20px;
+        list-style: disc outside;
+    }
+    li {
+        text-align: left;
+    }
+
+    .option {
+        color: $hearsay-maroon;
+    }
+
+    i {
+        display: block;
+        font-size: 1.5rem;
+    }
+}
+
+// ================ END OF GUEST APPROACH GUIDE =================
+
 // ================ FOOTER =================
 .footer-wrapper {
     display: flex;
