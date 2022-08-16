@@ -56,20 +56,18 @@ export default class MenuItem extends Component {
             "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/300px-No_image_available.svg.png";
 
         if (
-            this.props.item_img_link !== "null" ||
-            this.props.item_img_link !== "none"
+            this.props.item_img_link === "null" ||
+            this.props.item_img_link === "none"
         ) {
             return (
                 // eslint-disable-next-line
-                <img
-                    className="image"
-                    src={this.props.item_img_link}
-                    alt={no_img}
-                />
+                <img className="image" src={no_img} alt="no image available" />
             );
         } else {
             // eslint-disable-next-line
-            return <img className={no_img} alt="No picture yet…" />;
+            return (
+                <img className={this.props.item_img_link} alt="Food image" />
+            );
         }
     }
 
