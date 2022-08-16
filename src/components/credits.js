@@ -7,20 +7,19 @@ export default function Credits() {
         <div className="credits-wrapper">
             <div className="credits">
                 <h2>UNOFFICIAL TRAINING GUIDE</h2>
-                <p>
-                    Created by Oleh Kovelskyi as "best practices" and
-                    recommendations.
+                <>
+                    <p>
+                        Created by Oleh Kovelskyi as "best practices" and
+                        recommendations.
+                    </p>
+
                     <br />
-                    <br />
-                    <br />
-                    All rights reserved.
-                    <br />
-                    <br />
+                    <p>All rights reserved.</p>
                     <br />
                     <NavLink to="/">
                         <h3 className="menu-item">Homepage</h3>
                     </NavLink>
-                </p>
+                </>
             </div>
         </div>
     );
