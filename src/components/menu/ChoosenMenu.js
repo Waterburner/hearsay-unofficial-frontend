@@ -121,7 +121,7 @@
 
 import React from "react";
 import { useState } from "react";
-import MenuItem from "./MenuItem";
+import MenuItem from "./MenuItemFunction";
 import { useParams } from "react-router-dom";
 
 export default function ChoosenMenu(params) {
