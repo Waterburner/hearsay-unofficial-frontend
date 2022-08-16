@@ -75,4 +75,27 @@
     }
 
     // END of guest approach
+
+    // credits
+    .credits-wrapper {
+        .credits {
+            h2 {
+                font-size: 30px;
+            }
+            p {
+                font-size: 20px;
+            }
+
+            .menu-item {
+                font-size: 30px;
+                color: $hearsay-maroon;
+
+                &:hover {
+                    text-decoration: underline;
+                    background-color: $offwhite;
+                }
+            }
+        }
+    }
+    // END of credits
 }
