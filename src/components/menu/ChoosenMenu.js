@@ -132,8 +132,8 @@ export default function ChoosenMenu(params) {
 
     if (menus_actual_name.length > 0) {
         fetch(
-            // `https://hearsay-unofficial-backend.herokuapp.com/menu_id=${slug}`
-            // `http://localhost:5000/menu=${menus_actual_name}`
+            // `https://hearsay-unofficial-backend.herokuapp.com/menu=${menus_actual_name}`
+            // `http://localhost:5000/menu=${menus_actual_name}` // not working for some reason
             `http://127.0.0.1:5000/menu=${menus_actual_name}`
         )
             .then((response) => response.json())
