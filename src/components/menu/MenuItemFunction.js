@@ -5,7 +5,9 @@ export default function MenuItem(props) {
         "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/300px-No_image_available.svg.png";
 
     function displayImg(props) {
-        if (props.item_img_link === null) {
+        console.log(this.props.item_img_link);
+
+        if (props.item_img_link === null || props.item_img_link === "null") {
             return (
                 // eslint-disable-next-line jsx-a11y/img-redundant-alt
                 <img className="image" src={no_img} alt="no image available" />
