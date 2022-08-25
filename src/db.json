@@ -1,7 +1,110 @@
 {
-    "appetizers": [],
-    "dinner": [],
-    "drinks": [],
-    "brunch": [],
-    "desserts": []
+    "appetizers": [
+        {
+            "id": 1,
+            "name": "Artisan Bread Board",
+            "description": "jalapeño cornbread fritters, challah roll, pretzel, herb butter",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": 2,
+            "name": "Spinach, Jalapeño & Artichoke Dip",
+            "description": "toasted sourdough bowl and tortilla chips",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": "3",
+            "name": "Kung Pao Shrimp & Calamar",
+            "description": "lightly fried calamari, shrimp, jalapeño, bell pepper, bean sprouts",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": "4",
+            "name": "Texas Charcuterie Board",
+            "description": "Bavarian pretzel, sliced brisket, prosciutto, jalapeño sausage, seasonal cheese, fruit, nuts, olives, cheese sauce, musturd,",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        }
+    ],
+    "dinner": [
+        {
+            "id": "20",
+            "name": "Hearsay Cheeseburger",
+            "description": "Wagyu beef, cheddar, applewood smoked bacon, lettuce, tomato, red onion, chipotle aioli, rosemary and parmesan fry mix",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": "21",
+            "name": "The Byrd",
+            "description": "Wagyu beef, applewood smoked bacon, cheddar, mozzarella, fried egg, onions, jalapeños, avocado, mustard, mayo, ketchup, tomato, served with gouda mac and cheese & rosemary and parmesan fry mix",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": "22",
+            "name": "Redfish Sandwich",
+            "description": "CHOICE OF CRISPY OR GRILLED focaccia, cole slaw, rosemary and parmesan fry mix",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": "23",
+            "name": "Chicken Sandwich",
+            "description": "focaccia, lettuce, mozzarella, applewood smoked bacon, avocado, tomato, chipotle aioli, rosemary and parmesan fry mix. Blackened Redfish Tacos gf 16 corn tortillas, pico de gallo, shredded lettuce, avocado, chipotle aioli, street corn casserole",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": "24",
+            "name": "Crunchy Ahi Tuna Tacos",
+            "description": "ginger cilantro slaw, ponzu, avocado, gochujang aioli, street corn casserole",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        }
+    ],
+    "drinks": [
+        {
+            "id": "30",
+            "name": "Hearsay Old Fasioned",
+            "description": "Woodford reserve, simple syrop, bitters, and laxurdo cherrie",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        }
+    ],
+    "brunch": [
+        {
+            "id": "40",
+            "name": "Breadpudding French Toast",
+            "description": "French toast made with house breadpudding. Serves with bacon on the side and one topping on your choice (Strawberry sauce or blackberry sauce, or candied pecans",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": "41",
+            "name": "Texas Omlette",
+            "description": "3 egg omlette made with house smoked brisket and topped with pico de gallo and pickled jalapenios. Serves with breakfast potatoes",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        }
+    ],
+    "desserts": [
+        {
+            "id": "51",
+            "name": "Hearsay Bread Pudding",
+            "description": "vanilla bean ice cream, caramel sauce",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        },
+        {
+            "id": "52",
+            "name": "Cream Brulee",
+            "description": "bourbon, fresh berries",
+            "item_img_link": "null",
+            "item_scan_link": "null"
+        }
+    ]
 }
