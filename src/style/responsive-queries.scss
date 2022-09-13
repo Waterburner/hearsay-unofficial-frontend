@@ -74,10 +74,11 @@
     .guest-approach {
         padding: 10px 10vw;
     }
+}
+// END of guest approach
 
-    // END of guest approach
-
-    // credits
+// credits
+@media only screen and (min-width: 768px) {
     .credits-wrapper {
         .credits {
             h2 {
