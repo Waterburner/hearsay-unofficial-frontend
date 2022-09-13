@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Sidework() {
     return (
-        <div>
+        <div className="sidework">
             <h1>SERVERS</h1>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
