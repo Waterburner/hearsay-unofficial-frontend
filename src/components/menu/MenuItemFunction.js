@@ -7,30 +7,20 @@ export default function MenuItem(props) {
     function displayImg(props) {
         let item_img = props.item_img_link;
 
-        if (item_img.length > 0) {
-            if (
-                item_img === null ||
-                item_img === "none" ||
-                item_img === "null"
-            ) {
-                return (
-                    // eslint-disable-next-line jsx-a11y/img-redundant-alt
-                    <img
-                        className="image"
-                        src={no_img}
-                        alt="no image available"
-                    />
-                );
-            } else {
-                return (
-                    // eslint-disable-next-line jsx-a11y/img-redundant-alt
-                    <img
-                        className="image"
-                        src={item_img}
-                        alt="Image of food (simething went wrong)"
-                    />
-                );
-            }
+        if (item_img === null || item_img === "none" || item_img === "null") {
+            return (
+                // eslint-disable-next-line jsx-a11y/img-redundant-alt
+                <img className="image" src={no_img} alt="no image available" />
+            );
+        } else {
+            return (
+                // eslint-disable-next-line jsx-a11y/img-redundant-alt
+                <img
+                    className="image"
+                    src={item_img}
+                    alt="Image of food (simething went wrong)"
+                />
+            );
         }
     }
 
