@@ -67,9 +67,10 @@
             }
         }
     }
+}
 
-    // guest approach
-
+// guest approach
+@media only screen and (min-width: 768px) {
     .guest-approach {
         padding: 10px 10vw;
     }
@@ -101,9 +102,9 @@
 }
 
 // NoMatch styles
-
-.no-match-wrapper {
-    justify-content: center;
+@media only screen and (min-width: 768px) {
+    .no-match-wrapper {
+        justify-content: center;
+    }
 }
-
 // end of NoMatch styles
