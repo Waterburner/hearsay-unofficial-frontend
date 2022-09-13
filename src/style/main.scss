@@ -237,9 +237,10 @@ a {
 }
 // ================ END OF MENUITEM =================
 
-// ================ GUEST APPROACH GUIDE =================
+// ================ GUEST APPROACH & SIDEWORK GUIDE =================
 
-.guest-approach {
+.guest-approach,
+.sidework {
     text-align: center;
     h1 {
         font-size: $menus-head-font-size;
@@ -272,7 +273,7 @@ a {
     }
 }
 
-// ================ END OF GUEST APPROACH GUIDE =================
+// ================ END OF GUEST APPROACH & SIDEWORK GUIDE =================
 
 // ================ FOOTER =================
 .footer-wrapper {
