@@ -48,6 +48,10 @@ export default class App extends Component {
                                 path="/special-requests"
                                 element={<SpecialRequests />}
                             />
+                            <Route
+                                path="/orders-in-special"
+                                element={<SpecialRequests />}
+                            />
                             <Route path="/credits" element={<Credits />} />
                             <Route path="*" element={<NoMatch />} />
                         </Routes>
