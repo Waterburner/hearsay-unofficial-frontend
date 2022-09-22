@@ -67,7 +67,7 @@ export default function Sidework() {
             </ol>
             <h3>Closing sidework</h3>
 
-            <span>Sidework for staff who's leaving early</span>
+            <h4>Sidework for staff who's leaving early</h4>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
                 voluptas harum, voluptatibus nihil at blanditiis qui voluptates
@@ -124,7 +124,7 @@ export default function Sidework() {
                 <li>todo #5</li>
             </ol>
             <h3>Closing shift</h3>
-            <span>Leaving early</span>
+            <h4>Leaving early</h4>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
                 voluptas harum, voluptatibus nihil at blanditiis qui voluptates
@@ -133,7 +133,7 @@ export default function Sidework() {
                 <li>todo #1</li>
                 <li>todo #2</li>
             </ol>
-            <span>Closing the restaurant</span>
+            <h4>Closing the restaurant</h4>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
                 voluptas harum, voluptatibus nihil at blanditiis qui voluptates
