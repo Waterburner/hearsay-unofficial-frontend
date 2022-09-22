@@ -239,6 +239,13 @@ a {
 
 // ================ GUEST APPROACH & SIDEWORK GUIDE =================
 
+.guide {
+    padding: 10px;
+    ul {
+        padding-left: 20px;
+    }
+}
+
 .guest-approach,
 .sidework {
     text-align: center;
@@ -309,5 +316,5 @@ a {
 }
 
 // desktop styles
-@import "responsive-queries";
 @import "manuals";
+@import "responsive-queries";
