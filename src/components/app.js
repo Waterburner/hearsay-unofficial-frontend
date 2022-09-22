@@ -9,8 +9,9 @@ import Menus from "./menu/Menus.js";
 import AllMenuItems from "./menu/AllMenuItems";
 import ChoosenMenu from "./menu/ChoosenMenu";
 import GuestApproach from "./GuestApproach";
-import Credits from "./credits";
+import SpecialRequests from "./SpecialRequests";
 import Sidework from "./sidework";
+import Credits from "./credits";
 import NoMatch from "./NoMatch";
 
 export default class App extends Component {
@@ -42,8 +43,12 @@ export default class App extends Component {
                                 path="/guest-approach"
                                 element={<GuestApproach />}
                             />
-                            <Route path="/credits" element={<Credits />} />
                             <Route path="/sideworks" element={<Sidework />} />
+                            <Route
+                                path="/special-requests"
+                                element={<SpecialRequests />}
+                            />
+                            <Route path="/credits" element={<Credits />} />
                             <Route path="*" element={<NoMatch />} />
                         </Routes>
 
