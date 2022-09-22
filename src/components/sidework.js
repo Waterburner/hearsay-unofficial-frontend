@@ -81,7 +81,7 @@ export default function Sidework() {
                 <li>todo #4</li>
                 <li>todo #5</li>
             </ol>
-            <span>Closing staff</span>
+            <h4>Closing staff</h4>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
                 voluptas harum, voluptatibus nihil at blanditiis qui voluptates
