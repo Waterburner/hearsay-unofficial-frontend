@@ -265,11 +265,189 @@ export default function MenusDB(menu_name) {
         },
     ];
 
+    const appetizer_menu = [
+        {
+            id: 4,
+            name: "Cheese steak egg rolls",
+            description:
+                "Asian style fried eggrolls stuffed with in-house smoked brisket and cheese. served with sweet chilli sauce￼",
+            link: "https://i.postimg.cc/d0rmDNFr/APP-eggrolls.jpg",
+            scanLink: "none",
+        },
+        {
+            id: 14,
+            appetizer_menu_name: "Artisan bread board",
+            description:
+                "Pretzel, jallapenio cornbread and challa rolls with side of herbal butter. 2 of each",
+            link: "https://i.postimg.cc/Z5gVWydt/APP-bread-board-old.jpg",
+            scanLink: "none",
+        },
+        {
+            id: 24,
+            appetizer_menu_name: "Spinach artichoke dip",
+            description:
+                "Cream spinach (cream cheese and spinach) with pickled jallapenios and artichoke hearts served in sourdough bread bowl with tortilla chips and croustini",
+            link: "https://i.postimg.cc/63KVZV6S/APP-spinach-dip.jpg",
+            scanLink: "none",
+        },
+        {
+            id: 34,
+            appetizer_menu_name: "Kung Pao Shrimp & Calamari",
+            description:
+                "lightly fried calamari, shrimp, jalapeño, bell pepper, bean sprouts",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 44,
+            appetizer_menu_name: "Texas Charcuterie Board",
+            description:
+                "Bavarian pretzel, sliced brisket, prosciutto, jalapeño sausage, seasonal cheese, fruit, nuts, olives, cheese sauce, grain mustard",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 54,
+            appetizer_menu_name: "Buffalo Shrimp",
+            description: "lightly fried, blue cheese, chive, ranch",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 64,
+            appetizer_menu_name: "Deviled Egg Trio",
+            description: "bacon, jalapeño, crispy onion",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 74,
+            appetizer_menu_name: "Wagyu Meatballs",
+            description:
+                "ground beef, spicy tomato sauce, mozzarella, parmesan, grilled crostini",
+            link: "none",
+            scanLink: "none",
+        },
+    ];
+
+    const brunch_menu = [
+        {
+            id: 4,
+            name: "Chicken and waffle",
+            description:
+                "Fried 3-4 chicken strips and waffle. Served with syrop and butter and sprinkled with powdered sugar￼",
+            link: "https://i.postimg.cc/RFT7L3N0/BRUNCH-chicken-and-waffle.jpg",
+            scanLink: "none",
+        },
+        {
+            id: 14,
+            name: "Chicken fried steak and eggs",
+            description:
+                "chicken fried ribbi top of the white pepperconrn gravy and accompanied with a two eggs cook to your liking and breakfast potato hash￼￼￼",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 24,
+            name: "Chicken Chilaquiles Verdes",
+            description:
+                "spicy roasted tomatillo salsa, corn chips,\npickled onions, avocado, queso fresco, crema,\ncilantro, fried egg",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 34,
+            name: "Bread Pudding French Toast",
+            description:
+                "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 44,
+            name: "Eggs Benedict ",
+            description:
+                "prosciutto, poached egg, English muffin,\nhollandaise sauce, fried potato hash",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 54,
+            name: "Buttermilk Pancakes",
+            description:
+                "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 64,
+            name: "Brunch Steak & Eggs",
+            description: "Hanger steak, choice eggs, fried potato hash",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 74,
+            name: "Farmer’s Omelet & Mixed Greens",
+            description:
+                "spinach, mushrooms, tomato, mozzarella, sherry\nvinaigrette, pickled onions, fried potato hash",
+            link: "none",
+            scanLink: "none",
+        },
+        {
+            id: 84,
+            name: "Texas Omelet",
+            description:
+                "smoked brisket, cheddar, jalapeños, pico de gallo,\navocado, mixed greens, fried potato hash",
+            link: "none",
+            scanLink: "none",
+        },
+    ];
+
+    const dessert_menu = [
+        {
+            id: 4,
+            name: "Hearsay Bread Pudding",
+            description:
+                "Bread pudding drizzled with caramel sauce and accompanied with vanilla bean ice cream. garnished with whip cream and berries",
+            link: "https://i.postimg.cc/c4CG82Jp/DESS-bread-pudding.jpg",
+            scanLink: "none",
+        },
+        {
+            id: 14,
+            name: "Creme brulee",
+            description:
+                "Traditional creme brulee with sugar-caramel crust and garnished with whip cream and berries",
+            link: "https://i.postimg.cc/T27m2vbB/DESS-cream-brulee2.jpg",
+            scanLink: "none",
+        },
+        {
+            id: 24,
+            name: "Espresso Chocolate mousse",
+            description:
+                "Chocolate musse dessert with wafer cookie and garnished with whip cream and berries",
+            link: "none",
+            scanLink: "none",
+        },
+    ];
+
     if (menu_name === "dinner_menu") {
         return dinner_menu;
     }
 
-    if (menu_name === "drink_menu") {
+    if (menu_name === "brunch_menu") {
+        return brunch_menu;
+    }
+
+    if (menu_name === "appetizer_menu" || menu_name === "appetizers_menu") {
+        return appetizer_menu;
+    }
+
+    if (menu_name === "dessert_menu" || menu_name === "desserts_menu") {
+        return dessert_menu;
+    }
+
+    if (menu_name === "drink_menu" || menu_name === "drinks_menu") {
         return drink_menu;
     } else {
         return [
