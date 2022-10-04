@@ -46,6 +46,30 @@ export default class Menus extends Component {
         );
     }
 
+    listMenusOffline() {
+        return (
+            <>
+                <div className="menu-item-wrapper">
+                    <NavLink to="/menu/appetizer_menu">
+                        Sharebles(Appetizers)
+                    </NavLink>
+                </div>
+                <div className="menu-item-wrapper">
+                    <NavLink to="/menu/dinner_menu">Dinner</NavLink>
+                </div>
+                <div className="menu-item-wrapper">
+                    <NavLink to="/menu/drink_menu">Drinks</NavLink>
+                </div>
+                <div className="menu-item-wrapper">
+                    <NavLink to="/menu/dessert_menu">Desserts</NavLink>
+                </div>
+                <div className="menu-item-wrapper">
+                    <NavLink to="/menu/brunch_menu">Brunch</NavLink>
+                </div>
+            </>
+        );
+    }
+
     componentDidMount() {
         this.getMenus();
     }
@@ -59,11 +83,14 @@ export default class Menus extends Component {
             <div className="menus-wrapper">
                 <div className="menu-navigation">
                     <h3 className="menus-head">SELECT A MENU</h3>
-
-                    {this.listMenus()}
+                    {this.state.menus.length > 0
+                        ? this.listMenus()
+                        : this.listMenusOffline()}
+                    {/*
                     <div className="menu-item-wrapper">
-                        {/* <NavLink to="/allmenuitems">All menu items</NavLink> */}
+                         <NavLink to="/allmenuitems">All menu items</NavLink> 
                     </div>
+                    */}
                 </div>
             </div>
         );
