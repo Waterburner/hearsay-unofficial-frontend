@@ -64,9 +64,13 @@ export default class MenuItem extends Component {
                 <img className="image" src={no_img} alt="no image available" />
             );
         } else {
-            // eslint-disable-next-line
             return (
-                <img className={this.props.item_img_link} alt="Food image" />
+                // eslint-disable-next-line
+                <img
+                    className="image"
+                    src={this.props.item_img_link}
+                    alt="Food image"
+                />
             );
         }
     }
