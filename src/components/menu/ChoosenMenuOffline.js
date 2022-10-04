@@ -245,8 +245,12 @@ export default function ChoosenMenuOffline(params) {
                 );
             });
         } else {
-            console.log(menu_name);
-            return <h2>My bad</h2>;
+            return (
+                <h2>
+                    Server is not responding. <br />
+                    No offline version of {menu_name}
+                </h2>
+            );
         }
     }
 
