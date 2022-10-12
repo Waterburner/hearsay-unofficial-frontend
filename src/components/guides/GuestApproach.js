@@ -2,7 +2,7 @@ import React from "react";
 
 export default function GuestApproach() {
     return (
-        <div className="guest-approach">
+        <div className="guest-approach guide">
             <h1>Guest approach guide</h1>
 
             <div className="order-section">
