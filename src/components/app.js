@@ -8,9 +8,9 @@ import Homepage from "./homepage/Homepage";
 import Menus from "./menu/Menus.js";
 import AllMenuItems from "./menu/AllMenuItems";
 import ChoosenMenu from "./menu/ChoosenMenu";
-import GuestApproach from "./GuestApproach";
-import SpecialRequests from "./SpecialRequests";
-import Sidework from "./sidework";
+import GuestApproach from "./guides/GuestApproach";
+import SpecialRequests from "./guides/SpecialRequests";
+import Sidework from "./guides/Sidework";
 import Credits from "./credits";
 import NoMatch from "./NoMatch";
 
