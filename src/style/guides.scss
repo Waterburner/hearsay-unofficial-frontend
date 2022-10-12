@@ -1,20 +1,30 @@
 // ================ GUEST APPROACH & SIDEWORK GUIDE =================
 
 .guide {
+    text-align: center;
     padding: 10px;
     ul {
-        list-style-position: inside;
+        list-style: disc outside;
         font-size: $guides-list-font-size;
-        padding-left: 20px;
+        padding: 20px 0 10px 20px;
         margin-top: 10px;
         margin-bottom: 10px;
     }
 
     ol {
-        list-style-position: inside;
+        list-style-position: outside;
         font-size: $guides-list-font-size;
+        padding: 20px 0 10px 20px;
         margin-bottom: 10px;
         margin-top: 10px;
+    }
+
+    li {
+        text-align: left;
+    }
+
+    h1 {
+        font-size: $menus-head-font-size;
     }
 
     h3 {
@@ -34,30 +44,15 @@
         font-size: 14px;
         font-style: italic;
     }
-}
 
-.guest-approach,
-.sidework {
-    text-align: center;
-    h1 {
-        font-size: $menus-head-font-size;
-    }
     .section-header {
         font-size: $item-title-font-size;
-        color: $hearsay-maroon;
         padding-top: 10px;
         padding-bottom: 10px;
-        text-decoration: underline;
     }
+
     .section-description {
         font-size: $description-font-size;
-    }
-    ul {
-        padding: 20px 0 10px 20px;
-        list-style: disc outside;
-    }
-    li {
-        text-align: left;
     }
 
     .option {
