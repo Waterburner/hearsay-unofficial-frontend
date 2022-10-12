@@ -62,25 +62,38 @@ export default function Sidework() {
                     If you see empty trays on the floor — put them up (coctail
                     or food trays)
                 </li>
-                <li>Dirty dishes go to dishwasher</li>
-                <li>Bar glasses go to bar</li>
+                <li>Dirty dishes go to the dishpit</li>
+                <li>Bar glasses go to the bar</li>
             </ol>
             <h3>Closing sidework</h3>
 
             <h4>Sidework for staff who's leaving early</h4>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
-                voluptas harum, voluptatibus nihil at blanditiis qui voluptates
-                magni nemo perspiciatis quibusdam, recusandae tempore sapiente
-                minima saepe molestias sint! Fuga veniam labore corrupti.
+                <ol>
+                    <li>Tidy up server/bev station</li>
+                    <li>Roll silverware</li>
+                    <li>Bring some ice</li>
+                    <li>
+                        Bus your tables, clean up your section/last tables area
+                    </li>
+                    <li>
+                        Check with a manager/closing server if anything else
+                        needs to be done
+                    </li>
+                    <li>
+                        If your table closed out but didn't leave you either
+                        have to wait for them or make sure that someone else is
+                        going to be taking care of them if they need something
+                        else.
+                    </li>
+                    <p className="description">
+                        often happens that table either orders more or has
+                        someone else joining who would like to order something.
+                        Often table still has some food/drinks
+                    </p>
+                </ol>
             </p>
-            <ol>
-                <li>todo #1</li>
-                <li>todo #2</li>
-                <li>todo #3</li>
-                <li>todo #4</li>
-                <li>todo #5</li>
-            </ol>
+
             <h4>Closing staff</h4>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
