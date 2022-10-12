@@ -1,0 +1,39 @@
+// ================ HOMEPAGE =================
+.homepage {
+    .homepage-wrapper {
+        .content {
+            .content-wrapper {
+                .greeting {
+                    font-size: $description-font-size;
+                    text-align: center;
+                    background-color: whitesmoke;
+
+                    span {
+                        color: $hearsay-maroon;
+                    }
+                }
+
+                .menu-navigation {
+                    font-size: $menus-list-font-size;
+                    text-align: center;
+                    padding: 15px 0;
+
+                    p {
+                        color: $hearsay-maroon;
+                    }
+
+                    .menu-item-wrapper {
+                        transition: 100ms ease-out;
+                        &:hover {
+                            background-color: whitesmoke;
+                            a {
+                                color: $hearsay-maroon;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+// ================ END OF HOMEPAGE =================

@@ -1,0 +1,27 @@
+// ================ MENUS =================
+.menus-wrapper {
+    width: 100%;
+
+    .menu-navigation {
+        font-size: $menus-list-font-size;
+        text-align: center;
+        padding: 15px 0;
+
+        .menus-head {
+            color: $hearsay-maroon;
+            font-size: $menus-head-font-size;
+        }
+
+        .menu-item-wrapper {
+            transition: 100ms ease-out;
+            &:hover {
+                background-color: whitesmoke;
+                a {
+                    color: $hearsay-maroon;
+                }
+            }
+        }
+    }
+}
+
+// ================ END OF MENUS =================
