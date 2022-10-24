@@ -10,6 +10,7 @@ import AllMenuItems from "./menu/AllMenuItems";
 import ChoosenMenu from "./menu/ChoosenMenu";
 import GuestApproach from "./guides/GuestApproach";
 import SpecialRequests from "./guides/SpecialRequests";
+import PuttingTheOrders from "./guides/PuttingTheOrders";
 import Sidework from "./guides/Sidework";
 import Credits from "./credits";
 import NoMatch from "./NoMatch";
@@ -51,6 +52,10 @@ export default class App extends Component {
                             <Route
                                 path="/orders-in-special"
                                 element={<SpecialRequests />}
+                            />
+                            <Route
+                                path="/putting-the-orders"
+                                element={<PuttingTheOrders />}
                             />
                             <Route path="/credits" element={<Credits />} />
                             <Route path="*" element={<NoMatch />} />
