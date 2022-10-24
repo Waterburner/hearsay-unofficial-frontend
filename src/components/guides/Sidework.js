@@ -96,19 +96,34 @@ export default function Sidework() {
 
             <h4>Closing staff</h4>
             <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
-                voluptas harum, voluptatibus nihil at blanditiis qui voluptates
-                magni nemo perspiciatis quibusdam, recusandae tempore sapiente
-                minima saepe molestias sint! Fuga veniam labore corrupti.
+                Since some of the sidework can't be done until the restaurant is
+                closed the closing stuff besides checking previous sideworks has
+                to finish up and close the restaurant.
             </p>
             <ol>
-                <li>todo #1</li>
-                <li>todo #2</li>
-                <li>todo #3</li>
+                <li>Dump all the employee drinks from bev station</li>
+                <li>
+                    Dump the tea and coffee and "brew" the urn cleaner in the
+                    containers (blue powder in a brown paper baggies)
+                </li>
+                <li>Wash coctail mats from bev station</li>
+                <li>Wipe or wash coctail trays</li>
+                <li>Wipe bev station</li>
+                <li>Spot sweep the dining area</li>
+                <li>Bring the furniture in from the patio</li>
+                <li>Finish all of the unfinished sideworks</li>
+                <li>Check the upstairs area and previous sideworks</li>
+                <li>Make sure to put all of the toast devices to charge </li>
+                <p className="description">
+                    common places where toast devices are being "forgotten" are:
+                    hostess stand, upstairs at bev station, fedden room, fish
+                    bowl, office, expo area
+                </p>
             </ol>
 
             <h1>HOSTESS</h1>
-            <h3>Opening</h3>
+            <p className="description">not added yet</p>
+            {/* <h3>Opening</h3>
             <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius
                 voluptas harum, voluptatibus nihil at blanditiis qui voluptates
@@ -154,7 +169,7 @@ export default function Sidework() {
             <ol>
                 <li>todo #1</li>
                 <li>todo #2</li>
-            </ol>
+            </ol> */}
         </div>
     );
 }
