@@ -54,7 +54,15 @@ export default function Header() {
                             <div className="menu-item-wrapper">
                                 <NavLink to="/orders-in-special">
                                     <h3 className="menu-item">
-                                        putting orders in, special requests
+                                        special requests
+                                    </h3>
+                                </NavLink>
+                            </div>
+
+                            <div className="menu-item-wrapper">
+                                <NavLink to="/putting-the-orders">
+                                    <h3 className="menu-item">
+                                        putting the orders
                                     </h3>
                                 </NavLink>
                             </div>
