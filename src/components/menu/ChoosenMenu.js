@@ -5,7 +5,7 @@ import { useParams } from "react-router-dom";
 import ChoosenMenuOffline from "./ChoosenMenuOffline";
 
 export default function ChoosenMenu(params) {
-    const [isLoading, setLoading] = useState(false);
+    // const [isLoading, setLoading] = useState(false);
     // const [menu_id, setMenu_id] = useState(this.props.match.params.slug);
     const [data, setData] = useState();
     const { slug: menus_actual_name } = useParams();
