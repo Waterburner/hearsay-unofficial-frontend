@@ -6,7 +6,7 @@ import { NavLink } from "react-router-dom";
 
 export default function Header() {
     // temp
-    const updatedDate = "January 2022";
+    const updatedDate = "October 2022";
     const burgerStyle = { fontSize: "2rem", textAlign: "center" };
     const centerStyle = { textAlign: "center" };
 
