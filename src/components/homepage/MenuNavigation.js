@@ -20,9 +20,13 @@ export default function MenuNavigation() {
 
             <div className="menu-item-wrapper">
                 <NavLink to="/orders-in-special">
-                    <h3 className="menu-item">
-                        putting orders in, special requests
-                    </h3>
+                    <h3 className="menu-item">special requests</h3>
+                </NavLink>
+            </div>
+
+            <div className="menu-item-wrapper">
+                <NavLink to="/putting-the-orders">
+                    <h3 className="menu-item">putting the orders in</h3>
                 </NavLink>
             </div>
 
