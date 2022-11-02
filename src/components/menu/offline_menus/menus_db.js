@@ -4,7 +4,7 @@ export default function MenusDB(menu_name) {
             id: 14,
             name: "Redfish Sandwich",
             description:
-                "CHOICE OF CRISPY OR GRILLED. Focaccia, cole slaw, rosemary and parmesan fry mix",
+                "The redfish could be FRIED or GRILLED on guest choice. The coleslaw and tomato aioli sauce comes in the sandwich. Rosemary and parmesan fry mix on the side",
             link: "none",
             scanLink: "none",
         },
@@ -13,21 +13,21 @@ export default function MenusDB(menu_name) {
             id: 24,
             name: "Crab crusted redfish",
             description:
-                "Panseared redfish topped with Jumbo lump crab meat with little bit of breading and then toasted to perfection. Drizzled with lemon butter sauce, served over garlic blistered green beans and roasted red bell pepper sauce.",
+                "Pan seared redfish topped with Jumbo lump crab meat with little bit of breading. Then toasted to perfection in the oven and drizzled with lemon butter sauce. Served over garlic blistered green beans and roasted red bell pepper sauce.",
             link: "https://i.postimg.cc/zBdLfTyT/ENTR-crab-redfish-old.jpg",
             scanLink: "none",
         },
         {
             id: 34,
-            name: "Chicken Melanese￼",
+            name: "Chicken Melanese",
             description:
-                "Panko crusted chicken breast deep fry to Golden Brown topped with artichoke hearts, capers in lemon butter sauce. Serves with green beans. ",
+                "Panko crusted chicken breast deep fry to golden brown topped with artichoke hearts and capers in lemon butter sauce. Serves with green beans.",
             link: "https://i.postimg.cc/hvktJscQ/ENTR-malanese.jpg",
             scanLink: "none",
         },
         {
             id: 44,
-            name: "Ribeye￼",
+            name: "Ribeye",
             description:
                 "12 ounce. Ribeye have most fat between all steaks which makes it most flavorful. Serves with bacon Brussels and mash potatoes. ",
             link: "https://i.postimg.cc/dtC0bbj2/ENTR-ribeye-corn-beans.jpg",
@@ -35,7 +35,7 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 54,
-            name: "Filet￼",
+            name: "Filet",
             description:
                 "6oz. Very tender with good flavor, but not as flavorful as ribeye. Mash potatoes and garlic green beans. ",
             link: "none",
@@ -45,7 +45,7 @@ export default function MenusDB(menu_name) {
             id: 64,
             name: "Short rib￼",
             description:
-                "Slow braised short rib topped with caramel onions and drizzled with au jus sauce. Gouda grits and bacon sprouts. ",
+                "Slow braised short rib topped with caramelized onions and drizzled with brown gravy. Gouda grits and bacon sprouts serves on the side. ",
             link: "https://i.postimg.cc/Gtyc1DGL/ENTR-short-rib-old.jpg",
             scanLink: "none",
         },
