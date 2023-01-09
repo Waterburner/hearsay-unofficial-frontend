@@ -27,6 +27,11 @@ export default class App extends Component {
                             <Route exact path="/" element={<Homepage />} />
                             <Route
                                 exact
+                                path="waterburner.github.io/hearsay-unofficial-frontend"
+                                element={<Homepage />}
+                            />
+                            <Route
+                                exact
                                 path="/hearsay-unofficial-frontend"
                                 element={<Homepage />}
                             />
