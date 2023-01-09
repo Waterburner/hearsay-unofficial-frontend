@@ -24,6 +24,7 @@ export default class App extends Component {
                         <Header />
 
                         <Routes>
+                            <Route exact path="/" element={<Homepage />} />
                             <Route
                                 exact
                                 path="/hearsay-unofficial-frontend"
