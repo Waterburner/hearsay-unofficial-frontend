@@ -32,7 +32,7 @@ export default function Header() {
                             </div>
 
                             <div className="menu-item-wrapper">
-                                <NavLink to="/">
+                                <NavLink to="/hearsay-unofficial-frontend">
                                     <h3 className="menu-item">home</h3>
                                 </NavLink>
                             </div>
