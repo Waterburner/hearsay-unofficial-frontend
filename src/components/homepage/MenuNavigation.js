@@ -31,7 +31,7 @@ export default function MenuNavigation() {
             </div>
 
             <div className="menu-item-wrapper">
-                <NavLink to="sideworks">
+                <NavLink to="/sideworks">
                     <h3 className="menu-item">sideworks</h3>
                 </NavLink>
             </div>
