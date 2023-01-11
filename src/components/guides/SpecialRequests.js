@@ -109,12 +109,13 @@ export default function SpecialRequests() {
             </p>
             <ul>
                 <li>
-                    If guest want's shrimp tacos — ask chef how much would we
+                    If guest wants shrimp tacos — ask chef how much would we
                     upcharge for it
                 </li>
                 <li>
-                    For adding shrimp — ask chef how many shrimp it's going to
-                    be and how much
+                    For adding shrimp — (as of Jan 2023 - $10 and it will be 4
+                    shrimp ) ask chef how many shrimp it's going to be and how
+                    much
                 </li>
                 <li>For different type of topping ask chef how much</li>
                 <li>
@@ -126,7 +127,7 @@ export default function SpecialRequests() {
             <ul>
                 <li>
                     Add shrimp to steak: Special reguest and add price according
-                    to chef
+                    to chef ($10 as of Jan 2023 for 4 shrimp)
                 </li>
                 <li>
                     Shrimp tacos. Redfish tacos: NO REDFISH, sub shrimp and add
@@ -137,12 +138,14 @@ export default function SpecialRequests() {
                     extra sausage
                 </li>
                 <li>
-                    Requests like "add avocado", "Jalapenio", "pretzel" — should
-                    be charged as well even if it's $1-$2
+                    Requests like "add avocado" (extra $2), "Jalapenio" (grilled
+                    jalapenio on SD extra $1, just pickled — no upcharge),
+                    "pretzel" (4$) — should be charged as well even if it's
+                    $2-$3
                 </li>
                 <li>
                     Only thing's we wouldn't charge in kitchen is garnishes
-                    (pico, pickles, basic vegetables)
+                    (pico, pickles, basic vegetables like lettuce, tomatoes)
                 </li>
                 <li>If not sure — ask chef/kitchen manager</li>
                 <br />
