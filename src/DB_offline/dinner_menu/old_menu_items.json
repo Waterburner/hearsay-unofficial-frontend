@@ -1,0 +1,37 @@
+    {
+        "brunch_menu_id": 14,
+        "brunch_menu_name": "Chicken fried steak and eggs",
+        "brunch_menu_description": "chicken fried ribbi top of the white pepperconrn gravy and accompanied with a two eggs cook to your liking and breakfast potato hash￼￼￼",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
+    },
+    {
+        "brunch_menu_id": 74,
+        "brunch_menu_name": "Farmer’s Omelet & Mixed Greens",
+        "brunch_menu_description": "spinach, mushrooms, tomato, mozzarella, sherry\nvinaigrette, pickled onions, fried potato hash",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
+    },
+
+    {
+        "brunch_menu_id": 84,
+        "brunch_menu_name": "Texas Omelet",
+        "brunch_menu_description": "smoked brisket, cheddar, jalapeños, pico de gallo,\navocado, mixed greens, fried potato hash",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
+    },
+    {
+		"appetizer_menu_id" : 54,
+		"appetizer_menu_name" : "Buffalo Shrimp",
+		"appetizer_menu_description" : "lightly fried, blue cheese, chive, ranch",
+		"appetizer_menu_link" : "none",
+		"appetizer_menu_scanLink" : "none"
+	},
+    {
+		"appetizer_menu_id" : 64,
+		"appetizer_menu_name" : "Deviled Egg Trio",
+		"appetizer_menu_description" : "bacon, jalapeño, crispy onion",
+		"appetizer_menu_link" : "none",
+		"appetizer_menu_scanLink" : "none"
+	},
+]

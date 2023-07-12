@@ -1,65 +1,44 @@
 [
-	{
-		"brunch_menu_id" : 4,
-		"brunch_menu_name" : "Chicken and waffle",
-		"brunch_menu_description" : "Fried 3-4 chicken strips and waffle. Served with syrop and butter and sprinkled with powdered sugar￼",
-		"brunch_menu_link" : "https://i.postimg.cc/RFT7L3N0/BRUNCH-chicken-and-waffle.jpg",
-		"brunch_menu_scanLink" : "none"
-	},
-	{
-		"brunch_menu_id" : 14,
-		"brunch_menu_name" : "Chicken fried steak and eggs",
-		"brunch_menu_description" : "chicken fried ribbi top of the white pepperconrn gravy and accompanied with a two eggs cook to your liking and breakfast potato hash￼￼￼",
-		"brunch_menu_link" : "none",
-		"brunch_menu_scanLink" : "none"
-	},
-	{
-		"brunch_menu_id" : 24,
-		"brunch_menu_name" : "Chicken Chilaquiles Verdes",
-		"brunch_menu_description" : "spicy roasted tomatillo salsa, corn chips,\npickled onions, avocado, queso fresco, crema,\ncilantro, fried egg",
-		"brunch_menu_link" : "none",
-		"brunch_menu_scanLink" : "none"
-	},
-	{
-		"brunch_menu_id" : 34,
-		"brunch_menu_name" : "Bread Pudding French Toast",
-		"brunch_menu_description" : "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
-		"brunch_menu_link" : "none",
-		"brunch_menu_scanLink" : "none"
-	},
-	{
-		"brunch_menu_id" : 44,
-		"brunch_menu_name" : "Eggs Benedict ",
-		"brunch_menu_description" : "prosciutto, poached egg, English muffin,\nhollandaise sauce, fried potato hash",
-		"brunch_menu_link" : "none",
-		"brunch_menu_scanLink" : "none"
-	},
-	{
-		"brunch_menu_id" : 54,
-		"brunch_menu_name" : "Buttermilk Pancakes",
-		"brunch_menu_description" : "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
-		"brunch_menu_link" : "none",
-		"brunch_menu_scanLink" : "none"
-	},
-	{
-		"brunch_menu_id" : 64,
-		"brunch_menu_name" : "Brunch Steak & Eggs",
-		"brunch_menu_description" : "Hanger steak, choice eggs, fried potato hash",
-		"brunch_menu_link" : "none",
-		"brunch_menu_scanLink" : "none"
-	},
-	{
-		"brunch_menu_id" : 74,
-		"brunch_menu_name" : "Farmer’s Omelet & Mixed Greens",
-		"brunch_menu_description" : "spinach, mushrooms, tomato, mozzarella, sherry\nvinaigrette, pickled onions, fried potato hash",
-		"brunch_menu_link" : "none",
-		"brunch_menu_scanLink" : "none"
-	},
-	{
-		"brunch_menu_id" : 84,
-		"brunch_menu_name" : "Texas Omelet",
-		"brunch_menu_description" : "smoked brisket, cheddar, jalapeños, pico de gallo,\navocado, mixed greens, fried potato hash",
-		"brunch_menu_link" : "none",
-		"brunch_menu_scanLink" : "none"
-	}
+    {
+        "brunch_menu_id": 4,
+        "brunch_menu_name": "Chicken and waffle",
+        "brunch_menu_description": "Fried 3-4 chicken strips and waffle. Served with syrop and butter and sprinkled with powdered sugar￼",
+        "brunch_menu_link": "https://i.postimg.cc/RFT7L3N0/BRUNCH-chicken-and-waffle.jpg",
+        "brunch_menu_scanLink": "none"
+    },
+    {
+        "brunch_menu_id": 24,
+        "brunch_menu_name": "Chicken Chilaquiles Verdes",
+        "brunch_menu_description": "spicy roasted tomatillo salsa, corn chips,\npickled onions, avocado, queso fresco, crema,\ncilantro, fried egg",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
+    },
+    {
+        "brunch_menu_id": 34,
+        "brunch_menu_name": "Bread Pudding French Toast",
+        "brunch_menu_description": "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
+    },
+    {
+        "brunch_menu_id": 44,
+        "brunch_menu_name": "Eggs Benedict ",
+        "brunch_menu_description": "prosciutto, poached egg, English muffin,\nhollandaise sauce, fried potato hash",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
+    },
+    {
+        "brunch_menu_id": 54,
+        "brunch_menu_name": "Buttermilk Pancakes",
+        "brunch_menu_description": "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
+    },
+    {
+        "brunch_menu_id": 64,
+        "brunch_menu_name": "Brunch Steak & Eggs",
+        "brunch_menu_description": "Hanger steak, choice eggs, fried potato hash",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
+    }
 ]
