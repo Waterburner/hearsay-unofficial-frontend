@@ -40,5 +40,13 @@
         "brunch_menu_description": "Hanger steak, choice eggs, fried potato hash",
         "brunch_menu_link": "none",
         "brunch_menu_scanLink": "none"
+    },
+
+    {
+        "brunch_menu_id": 1101,
+        "brunch_menu_name": "Short Rib Hash",
+        "brunch_menu_description": "Short rib on top of the potato hash, drizzled with salsa and topped with egg cooked your way",
+        "brunch_menu_link": "none",
+        "brunch_menu_scanLink": "none"
     }
 ]
