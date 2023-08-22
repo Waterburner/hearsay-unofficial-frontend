@@ -109,6 +109,13 @@
             "dinner_menu_description": "Flat grilled califlower in shape of crabcake and cilantro tartar on the side",
             "dinner_menu_link": "none",
             "dinner_menu_scanLink": "none"
+        },
+        "234": {
+            "dinner_menu_id": 234,
+            "dinner_menu_name": "Grilled Double Pork Chop",
+            "dinner_menu_description": "Chimichuri marinated double ribbed (bone in) pork chop grilled to med well or well done. Serves with Sweet potato wedges and green beans. Chimichuri on the side",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
         }
     }
 ]
