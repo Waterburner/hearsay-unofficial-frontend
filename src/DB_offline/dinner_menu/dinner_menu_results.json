@@ -95,6 +95,20 @@
             "dinner_menu_description": "mixed greens, tomato, carrots, cucumber, sweet sherry vinaigrette",
             "dinner_menu_link": "none",
             "dinner_menu_scanLink": "none"
+        },
+        "214": {
+            "dinner_menu_id": 214,
+            "dinner_menu_name": "Spinach and Watermelon salad",
+            "dinner_menu_description": "Spinash, Tofu, treenuts and fresh watermellon in sherry vinigrett",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
+        "224": {
+            "dinner_menu_id": 224,
+            "dinner_menu_name": "Califlower «Crabcake»",
+            "dinner_menu_description": "Flat grilled califlower in shape of crabcake and cilantro tartar on the side",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
         }
     }
 ]
