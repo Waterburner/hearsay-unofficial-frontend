@@ -1,3 +1,4 @@
+[
     {
         "brunch_menu_id": 14,
         "brunch_menu_name": "Chicken fried steak and eggs",
@@ -5,6 +6,23 @@
         "brunch_menu_link": "none",
         "brunch_menu_scanLink": "none"
     },
+
+    {
+        "id": 64,
+        "name": "Short rib",
+        "description": "Slow braised short rib topped with caramelized onions and drizzled with brown gravy. Gouda grits and bacon sprouts serves on the side. ",
+        "link": "https://i.postimg.cc/Gtyc1DGL/ENTR-short-rib-old.jpg",
+        "scanLink": "none"
+    },
+
+    {
+        "id": 72,
+        "name": "Chicken fried Texas ribeye",
+        "description": "Panko crusted deep fried ribeye (6oz) topped with peppercorn gravy. Grits and carrots. ",
+        "link": "https://i.postimg.cc/bJYD8mwz/ENTR-chicken-fried-steak.jpg",
+        "scanLink": "none"
+    },
+
     {
         "brunch_menu_id": 74,
         "brunch_menu_name": "Farmer’s Omelet & Mixed Greens",
@@ -14,112 +32,119 @@
     },
 
     {
+        "id": 82,
+        "name": "Grilled pork chop",
+        "description": "Cooked to your desired temperature topped with mustard sauce and fried onions. Grits and bacon sprouts",
+        "link": "https://i.postimg.cc/BvSQ1X9p/ENTR-pork-chop.jpg",
+        "scanLink": "none"
+    },
+
+    {
         "brunch_menu_id": 84,
         "brunch_menu_name": "Texas Omelet",
         "brunch_menu_description": "smoked brisket, cheddar, jalapeños, pico de gallo,\navocado, mixed greens, fried potato hash",
         "brunch_menu_link": "none",
         "brunch_menu_scanLink": "none"
     },
+
     {
-		"appetizer_menu_id" : 54,
-		"appetizer_menu_name" : "Buffalo Shrimp",
-		"appetizer_menu_description" : "lightly fried, blue cheese, chive, ranch",
-		"appetizer_menu_link" : "none",
-		"appetizer_menu_scanLink" : "none"
-	},
+        "appetizer_menu_id": 54,
+        "appetizer_menu_name": "Buffalo Shrimp",
+        "appetizer_menu_description": "lightly fried, blue cheese, chive, ranch",
+        "appetizer_menu_link": "none",
+        "appetizer_menu_scanLink": "none"
+    },
     {
-		"appetizer_menu_id" : 64,
-		"appetizer_menu_name" : "Deviled Egg Trio",
-		"appetizer_menu_description" : "bacon, jalapeño, crispy onion",
-		"appetizer_menu_link" : "none",
-		"appetizer_menu_scanLink" : "none"
-	},
-    	{
-		"dessert_menu_id" : 24,
-		"dessert_menu_name" : "Espresso Chocolate mousse",
-		"dessert_menu_description" : "Chocolate musse dessert with wafer cookie and garnished with whip cream and berries",
-		"dessert_menu_link" : "none",
-		"dessert_menu_scanLink" : "none"
-	},
+        "appetizer_menu_id": 64,
+        "appetizer_menu_name": "Deviled Egg Trio",
+        "appetizer_menu_description": "bacon, jalapeño, crispy onion",
+        "appetizer_menu_link": "none",
+        "appetizer_menu_scanLink": "none"
+    },
+    {
+        "dessert_menu_id": 24,
+        "dessert_menu_name": "Espresso Chocolate mousse",
+        "dessert_menu_description": "Chocolate musse dessert with wafer cookie and garnished with whip cream and berries",
+        "dessert_menu_link": "none",
+        "dessert_menu_scanLink": "none"
+    },
 
-    "14": {
-            "dinner_menu_id": 14,
-            "dinner_menu_name": "Redfish Sandwich",
-            "dinner_menu_description": "CHOICE OF CRISPY OR GRILLED. Focaccia, cole slaw, rosemary and parmesan fry mix",
-            "dinner_menu_link": "none",
-            "dinner_menu_scanLink": "none"
-        },
+    {
+        "dinner_menu_id": 14,
+        "dinner_menu_name": "Redfish Sandwich",
+        "dinner_menu_description": "CHOICE OF CRISPY OR GRILLED. Focaccia, cole slaw, rosemary and parmesan fry mix",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
 
-     "74": {
-            "dinner_menu_id": 74,
-            "dinner_menu_name": "Chicken fried Texas ribeye",
-            "dinner_menu_description": "Panko crusted deep fried ribeye (6oz) topped with peppercorn gravy. Grits and carrots. ",
-            "dinner_menu_link": "https://i.postimg.cc/bJYD8mwz/ENTR-chicken-fried-steak.jpg",
-            "dinner_menu_scanLink": "none"
-        },
+    {
+        "dinner_menu_id": 74,
+        "dinner_menu_name": "Chicken fried Texas ribeye",
+        "dinner_menu_description": "Panko crusted deep fried ribeye (6oz) topped with peppercorn gravy. Grits and carrots. ",
+        "dinner_menu_link": "https://i.postimg.cc/bJYD8mwz/ENTR-chicken-fried-steak.jpg",
+        "dinner_menu_scanLink": "none"
+    },
 
-    "84": {
-            "dinner_menu_id": 84,
-            "dinner_menu_name": "Grilled pork chop",
-            "dinner_menu_description": "Cooked to your desired temperature topped with mustard sauce and fried onions. Grits and bacon sprouts",
-            "dinner_menu_link": "https://i.postimg.cc/BvSQ1X9p/ENTR-pork-chop.jpg",
-            "dinner_menu_scanLink": "none"
-        },
+    {
+        "dinner_menu_id": 84,
+        "dinner_menu_name": "Grilled pork chop",
+        "dinner_menu_description": "Cooked to your desired temperature topped with mustard sauce and fried onions. Grits and bacon sprouts",
+        "dinner_menu_link": "https://i.postimg.cc/BvSQ1X9p/ENTR-pork-chop.jpg",
+        "dinner_menu_scanLink": "none"
+    },
 
-    "104": {
-            "dinner_menu_id": 104,
-            "dinner_menu_name": "Cedar planked salmon",
-            "dinner_menu_description": "Grilled Salmon on top of the cedar plank, drizzled with lemon butter and dill sauce. Serves with bacon sprouts and Gouda grits. (Comes medium well, but could be cooked to desired temperature). ",
-            "dinner_menu_link": "https://i.postimg.cc/RZcNHk3S/ENTR-cedar-salmon.jpg",
-            "dinner_menu_scanLink": "none"
-        },
+    {
+        "dinner_menu_id": 104,
+        "dinner_menu_name": "Cedar planked salmon",
+        "dinner_menu_description": "Grilled Salmon on top of the cedar plank, drizzled with lemon butter and dill sauce. Serves with bacon sprouts and Gouda grits. (Comes medium well, but could be cooked to desired temperature). ",
+        "dinner_menu_link": "https://i.postimg.cc/RZcNHk3S/ENTR-cedar-salmon.jpg",
+        "dinner_menu_scanLink": "none"
+    },
 
-    "124": {
-            "dinner_menu_id": 124,
-            "dinner_menu_name": "The Byrd (burger)",
-            "dinner_menu_description": "Wagyu beef (fancy cow breed. Cooked to desired temperature) with applewood smoked bacon, cheddar, mozzarella, fried egg, fresh onions, jalapeños, avocado, mustard, mayo, ketchup, tomato, served with gouda mac and cheese & rosemary and parmesan fry mix.",
-            "dinner_menu_link": "https://i.postimg.cc/HLg8vYG8/ENTR-byrd.jpg",
-            "dinner_menu_scanLink": "none"
-        },
+    {
+        "dinner_menu_id": 124,
+        "dinner_menu_name": "The Byrd (burger)",
+        "dinner_menu_description": "Wagyu beef (fancy cow breed. Cooked to desired temperature) with applewood smoked bacon, cheddar, mozzarella, fried egg, fresh onions, jalapeños, avocado, mustard, mayo, ketchup, tomato, served with gouda mac and cheese & rosemary and parmesan fry mix.",
+        "dinner_menu_link": "https://i.postimg.cc/HLg8vYG8/ENTR-byrd.jpg",
+        "dinner_menu_scanLink": "none"
+    },
 
-     "174": {
-            "dinner_menu_id": 174,
-            "dinner_menu_name": "Wagyu Dog",
-            "dinner_menu_description": "GRILLED BUN OR JALAPEÑO CORNBREAD BATTERED served with gouda mac and cheese & rosemary and parmesan fry mix",
-            "dinner_menu_link": "none",
-            "dinner_menu_scanLink": "none"
-        },
+    {
+        "dinner_menu_id": 174,
+        "dinner_menu_name": "Wagyu Dog",
+        "dinner_menu_description": "GRILLED BUN OR JALAPEÑO CORNBREAD BATTERED served with gouda mac and cheese & rosemary and parmesan fry mix",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
 
-    "194": {
-            "dinner_menu_id": 194,
-            "dinner_menu_name": "Hearsay Clam Chowder",
-            "dinner_menu_description": "New England (white, cream based) garnished with chives and bacon",
-            "dinner_menu_link": "none",
-            "dinner_menu_scanLink": "none"
-        },
+    {
+        "dinner_menu_id": 194,
+        "dinner_menu_name": "Hearsay Clam Chowder",
+        "dinner_menu_description": "New England (white, cream based) garnished with chives and bacon",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
 
-     "214": {
-            "dinner_menu_id": 214,
-            "dinner_menu_name": "Seared Tuna, Avocado & Cucumber",
-            "dinner_menu_description": "sliced avocado, cucumber ribbons, mixed greens, tomato, queso fresco, sweet sherry vinaigrette",
-            "dinner_menu_link": "none",
-            "dinner_menu_scanLink": "none"
-        },
+    {
+        "dinner_menu_id": 214,
+        "dinner_menu_name": "Seared Tuna, Avocado & Cucumber",
+        "dinner_menu_description": "sliced avocado, cucumber ribbons, mixed greens, tomato, queso fresco, sweet sherry vinaigrette",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
 
-    "224": {
-            "dinner_menu_id": 224,
-            "dinner_menu_name": "Chopped Chicken ",
-            "dinner_menu_description": "chicken, cucumber, tomato, boiled egg, cabbage, romaine, blue cheese, bacon, onion, herb vinaigrette",
-            "dinner_menu_link": "none",
-            "dinner_menu_scanLink": "none"
-        },
-    "234": {
-            "dinner_menu_id": 234,
-            "dinner_menu_name": "Grilled Steak salad",
-            "dinner_menu_description": "mixed greens, blue cheese,\ntomato, red onion, soft boiled\negg, avocado, crispy strips",
-            "dinner_menu_link": "none",
-            "dinner_menu_scanLink": "none"
-        },
-
-    
+    {
+        "dinner_menu_id": 224,
+        "dinner_menu_name": "Chopped Chicken ",
+        "dinner_menu_description": "chicken, cucumber, tomato, boiled egg, cabbage, romaine, blue cheese, bacon, onion, herb vinaigrette",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 234,
+        "dinner_menu_name": "Grilled Steak salad",
+        "dinner_menu_description": "mixed greens, blue cheese,\ntomato, red onion, soft boiled\negg, avocado, crispy strips",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    }
 ]

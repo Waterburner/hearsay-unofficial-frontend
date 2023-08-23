@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 import { useParams } from "react-router-dom";
 import MenusDB from "./offline_menus/menus_db";
 
@@ -290,7 +290,7 @@ export default function ChoosenMenuOffline(params) {
 
     function listItemsFromMenu(menu_name) {
         return menu_name.map((item_id) => {
-            console.log(item_id[14]);
+            console.log(item_id[1]);
             return (
                 <div className="menu-item-component-wrapper">
                     <div className="menu-item">
@@ -337,5 +337,5 @@ export default function ChoosenMenuOffline(params) {
         }
     }
 
-    return <>{showChoosenMenuOffline(menu_name)}</>;
+    return <div>{showChoosenMenuOffline(menu_name)}</div>;
 }

@@ -1,14 +1,7 @@
+// DB that's supplies the info to the app
+
 export default function MenusDB(menu_name) {
     const dinner_menu = [
-        {
-            id: 14,
-            name: "Redfish Sandwich",
-            description:
-                "The redfish could be FRIED or GRILLED on guest choice. The coleslaw and tomato aioli sauce comes in the sandwich. Rosemary and parmesan fry mix on the side",
-            link: "none",
-            scanLink: "none",
-        },
-
         {
             id: 24,
             name: "Crab crusted redfish",
@@ -41,28 +34,22 @@ export default function MenusDB(menu_name) {
             link: "none",
             scanLink: "none",
         },
+
         {
             id: 64,
-            name: "Short rib￼",
+            name: "Short rib",
             description:
-                "Slow braised short rib topped with caramelized onions and drizzled with brown gravy. Gouda grits and bacon sprouts serves on the side. ",
+                "Slow braised short rib topped with caramel onions and drizzled with shiner brown grawy. Gouda grits and bacon sprouts. ",
             link: "https://i.postimg.cc/Gtyc1DGL/ENTR-short-rib-old.jpg",
             scanLink: "none",
         },
-        {
-            id: 74,
-            name: "Chicken fried Texas ribeye",
-            description:
-                "Panko crusted deep fried ribeye (6oz) topped with peppercorn gravy. Grits and carrots. ",
-            link: "https://i.postimg.cc/bJYD8mwz/ENTR-chicken-fried-steak.jpg",
-            scanLink: "none",
-        },
+
         {
             id: 84,
-            name: "Grilled pork chop",
+            name: "Grilled Double Pork Chop",
             description:
-                "Cooked to your desired temperature topped with mustard sauce and fried onions. Grits and bacon sprouts",
-            link: "https://i.postimg.cc/BvSQ1X9p/ENTR-pork-chop.jpg",
+                "Chimichuri marinated double ribbed (bone in) pork chop grilled to med well or well done. Serves with Sweet potato wedges and green beans. Chimichuri on the side",
+            link: "none",
             scanLink: "none",
         },
         {
@@ -73,14 +60,7 @@ export default function MenusDB(menu_name) {
             link: "https://i.postimg.cc/TwQbWZ4L/ENTR-bacon-wrap-shrimp.jpg",
             scanLink: "none",
         },
-        {
-            id: 104,
-            name: "Cedar planked salmon",
-            description:
-                "Grilled Salmon on top of the cedar plank, drizzled with lemon butter and dill sauce. Serves with bacon sprouts and Gouda grits. (Comes medium well, but could be cooked to desired temperature). ",
-            link: "https://i.postimg.cc/RZcNHk3S/ENTR-cedar-salmon.jpg",
-            scanLink: "none",
-        },
+
         {
             id: 114,
             name: "Hearsay Cheeseburger",
@@ -89,20 +69,12 @@ export default function MenusDB(menu_name) {
             link: "https://i.postimg.cc/SQDLXzBT/ENTR-burger.jpg",
             scanLink: "none",
         },
-        {
-            id: 124,
-            name: "The Byrd (burger)",
-            description:
-                "Wagyu beef (fancy cow breed. Cooked to desired temperature) with applewood smoked bacon, cheddar, mozzarella, fried egg, fresh onions, jalapeños, avocado, mustard, mayo, ketchup, tomato, served with gouda mac and cheese & rosemary and parmesan fry mix.",
-            link: "https://i.postimg.cc/HLg8vYG8/ENTR-byrd.jpg",
-            scanLink: "none",
-        },
 
         {
             id: 134,
-            name: "Shrimp and sausage fetticcini",
+            name: "Shrimp and sausage fettoccini",
             description:
-                "Sautéed shrimp and jalapeño sausage, cherry tomatoes, with fettuccini in Creole Sauce - tomato based sauce.",
+                "Sautéed shrimp and jalapeño sausage, cherry tomatoes, with fettuccini in Creole Sauce - tomato based lobster sauce.",
             link: "none",
             scanLink: "none",
         },
@@ -130,14 +102,7 @@ export default function MenusDB(menu_name) {
             link: "none",
             scanLink: "none",
         },
-        {
-            id: 174,
-            name: "Wagyu Dog",
-            description:
-                "GRILLED BUN OR JALAPEÑO CORNBREAD BATTERED served with gouda mac and cheese & rosemary and parmesan fry mix",
-            link: "none",
-            scanLink: "none",
-        },
+
         {
             id: 184,
             name: "Roasted Poblano Soup",
@@ -147,9 +112,9 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 194,
-            name: "Hearsay Clam Chowder",
+            name: "Chicken, Shrimp and Sausage Gumbo",
             description:
-                "New England (white, cream based) garnished with chives and bacon",
+                "Chef's family receipe. Chicken, Shrimp, Crab, Sausage spicy gumbo with white rice",
             link: "none",
             scanLink: "none",
         },
@@ -163,7 +128,7 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 214,
-            name: "Seared Tuna, Avocado & Cucumber",
+            name: "Avocado & Cucumber Salad",
             description:
                 "sliced avocado, cucumber ribbons, mixed greens, tomato, queso fresco, sweet sherry vinaigrette",
             link: "none",
@@ -171,17 +136,17 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 224,
-            name: "Chopped Chicken ",
+            name: "Spinach and Watermelon salad",
             description:
-                "chicken, cucumber, tomato, boiled egg, cabbage, romaine, blue cheese, bacon, onion, herb vinaigrette",
+                "Spinash, Tofu, treenuts and fresh watermellon in sherry vinigrett",
             link: "none",
             scanLink: "none",
         },
         {
             id: 234,
-            name: "Grilled Steak",
+            name: "Califlower «Crabcake»",
             description:
-                "mixed greens, blue cheese,\ntomato, red onion, soft boiled\negg, avocado, crispy strips",
+                "Flat grilled califlower in shape of crabcake and cilantro tartar on the side",
             link: "none",
             scanLink: "none",
         },
