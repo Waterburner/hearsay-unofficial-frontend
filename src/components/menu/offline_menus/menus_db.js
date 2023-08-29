@@ -147,7 +147,7 @@ export default function MenusDB(menu_name) {
             name: "Califlower «Crabcake»",
             description:
                 "Flat grilled califlower in shape of crabcake and cilantro tartar on the side",
-            link: "none",
+            link: "https://share.icloud.com/photos/020cL_rWQ_0PFlMiYSXNkz11Q",
             scanLink: "none",
         },
     ];
