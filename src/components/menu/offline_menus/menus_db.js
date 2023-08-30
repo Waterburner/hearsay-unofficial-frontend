@@ -250,7 +250,7 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 14,
-            appetizer_menu_name: "Artisan bread board",
+            name: "Artisan bread board",
             description:
                 "Pretzel, jallapenio cornbread and challa rolls with side of herbal butter. 2 of each",
             link: "https://i.postimg.cc/Z5gVWydt/APP-bread-board-old.jpg",
@@ -258,7 +258,7 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 24,
-            appetizer_menu_name: "Spinach artichoke dip",
+            name: "Spinach artichoke dip",
             description:
                 "Cream spinach (cream cheese and spinach) with pickled jallapenios and artichoke hearts served in sourdough bread bowl with tortilla chips and croustini",
             link: "https://i.postimg.cc/63KVZV6S/APP-spinach-dip.jpg",
@@ -266,7 +266,7 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 34,
-            appetizer_menu_name: "Kung Pao Shrimp & Calamari",
+            name: "Kung Pao Shrimp & Calamari",
             description:
                 "lightly fried calamari, shrimp, jalapeño, bell pepper, bean sprouts",
             link: "none",
@@ -274,7 +274,7 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 44,
-            appetizer_menu_name: "Texas Charcuterie Board",
+            name: "Texas Charcuterie Board",
             description:
                 "Bavarian pretzel, sliced brisket, prosciutto, jalapeño sausage, seasonal cheese, fruit, nuts, olives, cheese sauce, grain mustard",
             link: "none",
@@ -282,21 +282,21 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 54,
-            appetizer_menu_name: "Buffalo Shrimp",
+            name: "Buffalo Shrimp",
             description: "lightly fried, blue cheese, chive, ranch",
             link: "none",
             scanLink: "none",
         },
         {
             id: 64,
-            appetizer_menu_name: "Deviled Egg Trio",
+            name: "Deviled Egg Trio",
             description: "bacon, jalapeño, crispy onion",
             link: "none",
             scanLink: "none",
         },
         {
             id: 74,
-            appetizer_menu_name: "Wagyu Meatballs",
+            name: "Wagyu Meatballs",
             description:
                 "ground beef, spicy tomato sauce, mozzarella, parmesan, grilled crostini",
             link: "none",
