@@ -31,7 +31,7 @@ export default function MenusDB(menu_name) {
             name: "Filet",
             description:
                 "6oz. Very tender with good flavor, but not as flavorful as ribeye. Mash potatoes and garlic green beans. ",
-            link: "none",
+            link: "https://i.ibb.co/BNwWgcT/E1300-DCB-B2-E2-4517-BCB4-8-F111-C1-C7528.jpg",
             scanLink: "none",
         },
 
@@ -67,6 +67,15 @@ export default function MenusDB(menu_name) {
             description:
                 "Wagyu beef (fancy breed of the cow), cheddar, applewood smoked bacon, lettuce, tomato, fresh red onion, chipotle aioli (mayo based sauce), rosemary and parmesan fry mix. Patty cooked to desired temperature. ",
             link: "https://i.postimg.cc/SQDLXzBT/ENTR-burger.jpg",
+            scanLink: "none",
+        },
+
+        {
+            id: 124,
+            name: "Kung Pao Salmon",
+            description:
+                "Seared Salmon glazed with Kung Pao sauce (asian sauce similar to Teriyaki with bbq hints) accompanied with Bacon Brussel Sprouts and Cilantro Rice",
+            link: "none",
             scanLink: "none",
         },
 
