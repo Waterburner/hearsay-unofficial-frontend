@@ -124,7 +124,7 @@ export default function MenusDB(menu_name) {
             name: "Chicken, Shrimp and Sausage Gumbo",
             description:
                 "Chef's family receipe. Chicken, Shrimp, Crab, Sausage spicy gumbo with white rice",
-            link: "none",
+            link: "https://i.ibb.co/0XqsrjN/SP-gumbo.jpg",
             scanLink: "none",
         },
         {
