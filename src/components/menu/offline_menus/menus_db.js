@@ -209,31 +209,64 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 64,
-            name: "Way Down Southside",
+            name: "El Pepino",
             description:
-                "Maestro Dobel Tequila, lime juice, cilantro, mint, sugar",
+                "Espolon tequilla with lime juice, cilantro and cucamber. Just a splash of simple syrop. Shacken served in martini glass",
             link: "none",
             scanLink: "none",
         },
+        // {
+        //     id: 64,
+        //     name: "Way Down Southside",
+        //     description:
+        //         "Maestro Dobel Tequila, lime juice, cilantro, mint, sugar",
+        //     link: "none",
+        //     scanLink: "none",
+        // },
+        // {
+        //     id: 74,
+        //     name: "Hemingway Daiquiri",
+        //     description:
+        //         "Plantation Rum, Maraska Maraschino, grapefruit\njuice, lime juice, sugar",
+        //     link: "none",
+        //     scanLink: "none",
+        // },
+
         {
             id: 74,
-            name: "Hemingway Daiquiri",
+            name: "Blueberries in Havana",
             description:
-                "Plantation Rum, Maraska Maraschino, grapefruit\njuice, lime juice, sugar",
+                "SelvaRey Coconut Rum, muddled blueberries and mint, lime juice. Serves in colins class. Pretty much like blueberry mojito.",
             link: "none",
             scanLink: "none",
         },
+        // {
+        //     id: 84,
+        //     name: "Gin Gin Mule",
+        //     description: "Fords Gin, Ginger Beer, cucumber, mint, lime juice ",
+        //     link: "none",
+        //     scanLink: "none",
+        // },
         {
             id: 84,
-            name: "Gin Gin Mule",
-            description: "Fords Gin, Ginger Beer, cucumber, mint, lime juice ",
+            name: "Ginger Smash",
+            description:
+                "Woodford reserve with Ginger Simple syrup, lemon juice and mint",
             link: "none",
             scanLink: "none",
         },
+        // {
+        //     id: 94,
+        //     name: "Bee’s Knees",
+        //     description: "Empress Gin, lemon juice, Manuka chamomile honey",
+        //     link: "none",
+        //     scanLink: "none",
+        // },
         {
             id: 94,
-            name: "Bee’s Knees",
-            description: "Empress Gin, lemon juice, Manuka chamomile honey",
+            name: "Espresso Martini",
+            description:
+                "SelvaRey Chocolate Rum and Lavazza Espresso with Kahlua. Violently shaken",
             link: "none",
             scanLink: "none",
         },
@@ -282,15 +315,16 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 54,
-            name: "Buffalo Shrimp",
-            description: "lightly fried, blue cheese, chive, ranch",
+            name: "Coconut Shrimp",
+            description:
+                "Coconut crusted fried 4 shrimp served with sweet and sour chilly sauce on the side",
             link: "none",
             scanLink: "none",
         },
         {
             id: 64,
-            name: "Deviled Egg Trio",
-            description: "bacon, jalapeño, crispy onion",
+            name: "Deviled Eggs",
+            description: "3 eggs cut in half and garnished with caviar",
             link: "none",
             scanLink: "none",
         },
@@ -298,7 +332,7 @@ export default function MenusDB(menu_name) {
             id: 74,
             name: "Wagyu Meatballs",
             description:
-                "ground beef, spicy tomato sauce, mozzarella, parmesan, grilled crostini",
+                "5 Ground beef meatballs with spicy tomato sauce, mozzarella, parmesan, and toasted garlic bread",
             link: "none",
             scanLink: "none",
         },
@@ -313,14 +347,14 @@ export default function MenusDB(menu_name) {
             link: "https://i.postimg.cc/RFT7L3N0/BRUNCH-chicken-and-waffle.jpg",
             scanLink: "none",
         },
-        {
-            id: 14,
-            name: "Chicken fried steak and eggs",
-            description:
-                "chicken fried ribbi top of the white pepperconrn gravy and accompanied with a two eggs cook to your liking and breakfast potato hash￼￼￼",
-            link: "none",
-            scanLink: "none",
-        },
+        // {
+        //     id: 14,
+        //     name: "Chicken fried steak and eggs",
+        //     description:
+        //         "chicken fried ribbi top of the white pepperconrn gravy and accompanied with a two eggs cook to your liking and breakfast potato hash￼￼￼",
+        //     link: "none",
+        //     scanLink: "none",
+        // },
         {
             id: 24,
             name: "Chicken Chilaquiles Verdes",
@@ -331,9 +365,9 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 34,
-            name: "Bread Pudding French Toast",
+            name: "Cream Brulee French Toast",
             description:
-                "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
+                "choice of blackberry, strawberry or candied pecan topping and whipped butter, applewood smoked bacon with French Toast tipped in Cream Brulee",
             link: "none",
             scanLink: "none",
         },
@@ -341,7 +375,7 @@ export default function MenusDB(menu_name) {
             id: 44,
             name: "Eggs Benedict ",
             description:
-                "prosciutto, poached egg, English muffin,\nhollandaise sauce, fried potato hash",
+                "prosciutto, poached egg, English muffin, hollandaise sauce, fried potato hash",
             link: "none",
             scanLink: "none",
         },
@@ -349,14 +383,15 @@ export default function MenusDB(menu_name) {
             id: 54,
             name: "Buttermilk Pancakes",
             description:
-                "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
+                "choice of blackberry, strawberry or candied pecan topping and whipped butter, applewood smoked bacon",
             link: "none",
             scanLink: "none",
         },
         {
             id: 64,
             name: "Brunch Steak & Eggs",
-            description: "Hanger steak, choice eggs, fried potato hash",
+            description:
+                "Hanger steak, choice eggs, fried potato hash. Steak with chimichuri sauce",
             link: "none",
             scanLink: "none",
         },
@@ -364,18 +399,18 @@ export default function MenusDB(menu_name) {
             id: 74,
             name: "Farmer’s Omelet & Mixed Greens",
             description:
-                "spinach, mushrooms, tomato, mozzarella, sherry\nvinaigrette, pickled onions, fried potato hash",
+                "spinach, mushrooms, tomato, mozzarella, sherry vinaigrette, pickled onions, fried potato hash",
             link: "none",
             scanLink: "none",
         },
-        {
-            id: 84,
-            name: "Texas Omelet",
-            description:
-                "smoked brisket, cheddar, jalapeños, pico de gallo,\navocado, mixed greens, fried potato hash",
-            link: "none",
-            scanLink: "none",
-        },
+        // {
+        //     id: 84,
+        //     name: "Texas Omelet",
+        //     description:
+        //         "smoked brisket, cheddar, jalapeños, pico de gallo,\navocado, mixed greens, fried potato hash",
+        //     link: "none",
+        //     scanLink: "none",
+        // },
     ];
 
     const dessert_menu = [
@@ -397,9 +432,9 @@ export default function MenusDB(menu_name) {
         },
         {
             id: 24,
-            name: "Espresso Chocolate mousse",
+            name: "Smores Cake",
             description:
-                "Chocolate musse dessert with wafer cookie and garnished with whip cream and berries",
+                "Chocolate cake with molten center topped with 3 torched marshmellows and graham crackers",
             link: "none",
             scanLink: "none",
         },
