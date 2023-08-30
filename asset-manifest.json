@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hearsay-unofficial-frontend/static/css/main.eb3195c0.css",
-    "main.js": "/hearsay-unofficial-frontend/static/js/main.b6bfd5de.js",
+    "main.js": "/hearsay-unofficial-frontend/static/js/main.1eca7814.js",
     "static/js/787.9ba0846b.chunk.js": "/hearsay-unofficial-frontend/static/js/787.9ba0846b.chunk.js",
     "index.html": "/hearsay-unofficial-frontend/index.html",
     "main.eb3195c0.css.map": "/hearsay-unofficial-frontend/static/css/main.eb3195c0.css.map",
-    "main.b6bfd5de.js.map": "/hearsay-unofficial-frontend/static/js/main.b6bfd5de.js.map",
+    "main.1eca7814.js.map": "/hearsay-unofficial-frontend/static/js/main.1eca7814.js.map",
     "787.9ba0846b.chunk.js.map": "/hearsay-unofficial-frontend/static/js/787.9ba0846b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb3195c0.css",
-    "static/js/main.b6bfd5de.js"
+    "static/js/main.1eca7814.js"
   ]
 }
