@@ -1,6 +1,10 @@
 // ================ MENUITEM =================
 .menu-item-component-wrapper {
     .menu-item {
+        background-color: white;
+
+        padding-bottom: 15px;
+        margin-bottom: 10px;
         .menu-title-wrapper {
             .menu-title {
                 color: $hearsay-maroon;
@@ -13,6 +17,7 @@
         }
 
         .menu-item-description-wrapper {
+            padding-left: 5px;
             .menu-item-description {
                 // pan seared redfish topped…
                 font-size: $description-font-size;
