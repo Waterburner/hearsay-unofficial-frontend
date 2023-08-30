@@ -49,7 +49,7 @@ export default function MenusDB(menu_name) {
             name: "Grilled Double Pork Chop",
             description:
                 "Chimichuri marinated double ribbed (bone in) pork chop grilled to med well or well done. Serves with Sweet potato wedges and green beans. Chimichuri on the side",
-            link: "none",
+            link: "https://i.ibb.co/qn6jWQr/96-A6-EC32-24-DA-47-EA-8-F04-87-F04-F105891.jpg",
             scanLink: "none",
         },
         {
@@ -100,7 +100,7 @@ export default function MenusDB(menu_name) {
             name: "Blackened Redfish Taco",
             description:
                 "corn tortillas, pico de gallo, shredded lettuce, avocado, chipotle aioli, street corn casserole",
-            link: "none",
+            link: "https://i.ibb.co/qYpLdTD/ENTR-redfish-tacos.jpg",
             scanLink: "none",
         },
         {
@@ -148,7 +148,7 @@ export default function MenusDB(menu_name) {
             name: "Spinach and Watermelon salad",
             description:
                 "Spinash, Tofu, treenuts and fresh watermellon in sherry vinigrett",
-            link: "none",
+            link: "https://i.ibb.co/pwPWVjG/765-A9-DF5-C958-4-CE5-BFF9-B7861-C9-BE5-BE.jpg",
             scanLink: "none",
         },
         {
