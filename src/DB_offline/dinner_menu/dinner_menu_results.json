@@ -96,6 +96,27 @@
             "dinner_menu_link": "none",
             "dinner_menu_scanLink": "none"
         },
+        "205": {
+            "dinner_menu_id": 205,
+            "dinner_menu_name": "Avo-Cucumber",
+            "dinner_menu_description": "Sliced avocado, cucumber ribbons, mixed greens, tomato. Topped with queso fresco, dressed with sweet sherry vinaigrette",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
+        "206": {
+            "dinner_menu_id": 206,
+            "dinner_menu_name": "Seasonal Harvest",
+            "dinner_menu_description": "Mixed greens, honeycrisp apples, grapes, candied pecans and fried goat cheese, red onion, tomato. Poppyseed dressing",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
+        "207": {
+            "dinner_menu_id": 207,
+            "dinner_menu_name": "Gem Wedge",
+            "dinner_menu_description": "2 iceberg wedges topped with blue cheese crumbles, cherry tomato, bacon, carrot, chives and drizzled with ranch",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
         "212": {
             "dinner_menu_id": 212,
             "dinner_menu_name": "Califlower «Crabcake»",
