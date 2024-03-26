@@ -1,0 +1,177 @@
+[
+    {
+        "dinner_menu_id": 22,
+        "dinner_menu_name": "Crab crusted redfish",
+        "dinner_menu_description": "Pan seared redfish topped with Jumbo lump crab meat with little bit of breading and then toasted to perfection. Drizzled with lemon butter sauce, served over garlic blistered green beans and roasted red bell pepper sauce.",
+        "dinner_menu_link": "https://i.postimg.cc/zBdLfTyT/ENTR-crab-redfish-old.jpg",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 32,
+        "dinner_menu_name": "Chicken Melanese￼",
+        "dinner_menu_description": "Panko crusted chicken breast flat grilled and then baked to Golden Brown topped with artichoke hearts, capers in lemon butter sauce. Serves with garlic green beans. ",
+        "dinner_menu_link": "https://i.postimg.cc/hvktJscQ/ENTR-malanese.jpg",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 42,
+        "dinner_menu_name": "Ribeye￼",
+        "dinner_menu_description": "12 ounce. Ribeye have most fat between all steaks which makes it most flavorful. Serves with bacon Brussels and mash potatoes. ",
+        "dinner_menu_link": "https://i.postimg.cc/dtC0bbj2/ENTR-ribeye-corn-beans.jpg",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 52,
+        "dinner_menu_name": "Filet￼",
+        "dinner_menu_description": "6oz. Very tender with good flavor, but not as flavorful as ribeye. Mash potatoes and garlic green beans. ",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 62,
+        "dinner_menu_name": "Short rib￼",
+        "dinner_menu_description": "Slow braised short rib in Shiner beer for 5.5 hours topped with caramelized onions and drizzled with shiner brown grawy. Served over Gouda grits and bacon brussel sprouts. ",
+        "dinner_menu_link": "https://i.postimg.cc/Gtyc1DGL/ENTR-short-rib-old.jpg",
+        "dinner_menu_scanLink": "none"
+    },
+
+    {
+        "dinner_menu_id": 92,
+        "dinner_menu_name": "Bacon wrap shrimp and grits",
+        "dinner_menu_description": "Jalapeño, cheese and crab with breadding staffed shrimp and wrapped in bacon. Deep fried and served over creole sauce (tomato based lobster sauce) with grits.",
+        "dinner_menu_link": "https://i.postimg.cc/TwQbWZ4L/ENTR-bacon-wrap-shrimp.jpg",
+        "dinner_menu_scanLink": "none"
+    },
+
+    {
+        "dinner_menu_id": 112,
+        "dinner_menu_name": "Hearsay Cheeseburger",
+        "dinner_menu_description": "Wagyu beef (fancy breed of the cow), cheddar, bacon, lettuce, tomato, fresh red onion, chipotle aioli (mayo based sauce), rosemary and parmesan fry mix. Patty cooked to desired temperature. ",
+        "dinner_menu_link": "https://i.postimg.cc/SQDLXzBT/ENTR-burger.jpg",
+        "dinner_menu_scanLink": "none"
+    },
+
+    {
+        "dinner_menu_id": 132,
+        "dinner_menu_name": "Shrimp and sausage fetticcini",
+        "dinner_menu_description": "Sautéed shrimp and jalapeño sausage, cherry tomatoes, with fettuccini in Creole Sauce - tomato based lobster sauce.",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 142,
+        "dinner_menu_name": "Chicken Sandwich",
+        "dinner_menu_description": "CRISPY FRIED OR GRILLED. Focaccia, lettuce, mozzarella, smoked bacon, avocado, tomato, chipotle aioli, rosemary and parmesan fry mix",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 152,
+        "dinner_menu_name": "Blackened Redfish Taco",
+        "dinner_menu_description": "Corn tortillas, pico de gallo, shredded lettuce, avocado, chipotle aioli, served with street corn casserole. Glutein Free",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 162,
+        "dinner_menu_name": "Crunchy Ahi Tuna Tacos",
+        "dinner_menu_description": "Marinated tuna (not cooked), ginger cilantro slaw, ponzu, avocado, gochujang aioli on fried Wontong shell. Served with street corn casserole",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+
+    {
+        "dinner_menu_id": 182,
+        "dinner_menu_name": "Roasted Poblano Soup",
+        "dinner_menu_description": "Cup or Bowl. Garnished with fried tortilla crisps and queso fresco",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+
+    {
+        "dinner_menu_id": 202,
+        "dinner_menu_name": "House salad",
+        "dinner_menu_description": "mixed greens, tomato, carrots, cucumber, and sweet sherry vinaigrette dressing",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 205,
+        "dinner_menu_name": "Avo-Cucumber",
+        "dinner_menu_description": "Sliced avocado, cucumber ribbons, mixed greens, tomato. Topped with queso fresco, dressed with sweet sherry vinaigrette",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 206,
+        "dinner_menu_name": "Seasonal Harvest",
+        "dinner_menu_description": "Mixed greens, honeycrisp apples, grapes, candied pecans and fried goat cheese, red onion, tomato. Poppyseed dressing",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 207,
+        "dinner_menu_name": "Gem Wedge",
+        "dinner_menu_description": "2 iceberg wedges topped with blue cheese crumbles, cherry tomato, bacon, carrot, chives and drizzled with ranch",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 212,
+        "dinner_menu_name": "Califlower «Crabcake»",
+        "dinner_menu_description": "Flat grilled califlower in shape of crabcake and cilantro tartar on the side",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 222,
+        "dinner_menu_name": "Espresso Pork Chop",
+        "dinner_menu_description": "Espresso and blackaning rubbed pork chop grilled to med well or well done temperature. Serves with Sweet potato mash and broccolini. Topped with sweet Woodford glaze",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 232,
+        "dinner_menu_name": "Hearsay Bistro Steak",
+        "dinner_menu_description": "New York Strip cooked to your liking and sliced, topped with peppercorn mushroom gravy. Served with mash potato and green beans",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 242,
+        "dinner_menu_name": "Pistachio Crusted Scallops",
+        "dinner_menu_description": "5 seared scallops topped with pistachios served over sweet potato mash and broccolini. Accompanied with Chanpagne Safron sauce",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 252,
+        "dinner_menu_name": "Tuscan Chicken Pasta",
+        "dinner_menu_description": "Grilled chicken with fettucine, broccolini, spinach, cherry tomato in tomato cream sauce",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+    {
+        "dinner_menu_id": 262,
+        "dinner_menu_name": "Atlantic Seared Salmon",
+        "dinner_menu_description": "Seared Salmon to Med Well (unless desired otherwise) topped with Lemon Cream & Dill sauce with jumbo crab meat. Served with corn cake and grilled squash and zuccini",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+
+    {
+        "dinner_menu_id": 272,
+        "dinner_menu_name": "TX Wagyu Patty Melt",
+        "dinner_menu_description": "Texas Wagyu patty (cooked med well unless desired otherwise) with caramelized onion, cheddar cheese, jalapeño, chipotle aioli. Served with rosemary parmesan fries",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    },
+
+    {
+        "dinner_menu_id": 282,
+        "dinner_menu_name": "Wagyu Chicago Style Hot Dog",
+        "dinner_menu_description": "Jalapeno sausage in brioche roll, topped with mild giardiniera. Sprinkled with mustard and served with rosmery parmesan fries",
+        "dinner_menu_link": "none",
+        "dinner_menu_scanLink": "none"
+    }
+]
