@@ -69,14 +69,14 @@
         "152": {
             "dinner_menu_id": 152,
             "dinner_menu_name": "Blackened Redfish Taco",
-            "dinner_menu_description": "corn tortillas, pico de gallo, shredded lettuce, avocado, chipotle aioli, served with street corn casserole",
+            "dinner_menu_description": "Corn tortillas, pico de gallo, shredded lettuce, avocado, chipotle aioli, served with street corn casserole. Glutein Free",
             "dinner_menu_link": "none",
             "dinner_menu_scanLink": "none"
         },
         "162": {
             "dinner_menu_id": 162,
             "dinner_menu_name": "Crunchy Ahi Tuna Tacos",
-            "dinner_menu_description": "ginger cilantro slaw, ponzu, avocado, gochujang aioli, served with street corn casserole",
+            "dinner_menu_description": "Marinated tuna (not cooked), ginger cilantro slaw, ponzu, avocado, gochujang aioli on fried Wontong shell. Served with street corn casserole",
             "dinner_menu_link": "none",
             "dinner_menu_scanLink": "none"
         },
@@ -107,6 +107,34 @@
             "dinner_menu_id": 222,
             "dinner_menu_name": "Espresso Pork Chop",
             "dinner_menu_description": "Espresso and blackaning rubbed pork chop grilled to med well or well done temperature. Serves with Sweet potato mash and broccolini. Topped with sweet Woodford glaze",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
+        "232": {
+            "dinner_menu_id": 232,
+            "dinner_menu_name": "Hearsay Bistro Steak",
+            "dinner_menu_description": "New York Strip cooked to your liking and sliced, topped with peppercorn mushroom gravy. Served with mash potato and green beans",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
+        "242": {
+            "dinner_menu_id": 242,
+            "dinner_menu_name": "Pistachio Crusted Scallops",
+            "dinner_menu_description": "5 seared scallops topped with pistachios served over sweet potato mash and broccolini. Accompanied with Chanpagne Safron sauce",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
+        "252": {
+            "dinner_menu_id": 252,
+            "dinner_menu_name": "Tuscan Chicken Pasta",
+            "dinner_menu_description": "Grilled chicken with fettucine, broccolini, spinach, cherry tomato in tomato cream sauce",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
+        "262": {
+            "dinner_menu_id": 262,
+            "dinner_menu_name": "Atlantic Seared Salmon",
+            "dinner_menu_description": "Seared Salmon to Med Well (unless desired otherwise) topped with Lemon Cream & Dill sauce with jumbo crab meat. Served with corn cake and grilled squash and zuccini",
             "dinner_menu_link": "none",
             "dinner_menu_scanLink": "none"
         }
