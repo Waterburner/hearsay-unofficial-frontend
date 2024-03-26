@@ -137,6 +137,22 @@
             "dinner_menu_description": "Seared Salmon to Med Well (unless desired otherwise) topped with Lemon Cream & Dill sauce with jumbo crab meat. Served with corn cake and grilled squash and zuccini",
             "dinner_menu_link": "none",
             "dinner_menu_scanLink": "none"
+        },
+
+        "273": {
+            "dinner_menu_id": 272,
+            "dinner_menu_name": "TX Wagyu Patty Melt",
+            "dinner_menu_description": "Texas Wagyu patty (cooked med well unless desired otherwise) with caramelized onion, cheddar cheese, jalapeño, chipotle aioli. Served with rosemary parmesan fries",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
+        },
+
+        "283": {
+            "dinner_menu_id": 282,
+            "dinner_menu_name": "Wagyu Chicago Style Hot Dog",
+            "dinner_menu_description": "Jalapeno sausage in brioche roll, topped with mild giardiniera. Sprinkled with mustard and served with rosmery parmesan fries",
+            "dinner_menu_link": "none",
+            "dinner_menu_scanLink": "none"
         }
     }
 ]
