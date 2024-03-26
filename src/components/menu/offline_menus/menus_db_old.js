@@ -247,14 +247,14 @@ export default function MenusDB(menu_name) {
         //     link: "none",
         //     scanLink: "none",
         // },
-        // {
-        //     id: 84,
-        //     name: "Ginger Smash",
-        //     description:
-        //         "Woodford reserve with Ginger Simple syrup, lemon juice and mint",
-        //     link: "none",
-        //     scanLink: "none",
-        // },
+        {
+            id: 84,
+            name: "Ginger Smash",
+            description:
+                "Woodford reserve with Ginger Simple syrup, lemon juice and mint",
+            link: "none",
+            scanLink: "none",
+        },
         // {
         //     id: 94,
         //     name: "Bee’s Knees",
@@ -269,12 +269,6 @@ export default function MenusDB(menu_name) {
                 "SelvaRey Chocolate Rum and Lavazza Espresso with Kahlua. Violently shaken",
             link: "none",
             scanLink: "none",
-        },
-        {
-            id: 104,
-            name: "Pistache and Panacha",
-            description:
-                "Stranahan’s blue peak, luxardo maraschino, pistachio syrup, angostura bitters, cardamom bitters",
         },
     ];
 

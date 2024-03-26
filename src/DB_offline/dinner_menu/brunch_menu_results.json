@@ -15,29 +15,29 @@
     },
     {
         "brunch_menu_id": 34,
-        "brunch_menu_name": "Bread Pudding French Toast",
-        "brunch_menu_description": "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
+        "brunch_menu_name": "Creme Brulee French Toast",
+        "brunch_menu_description": "Toast buttered with creme brulle. Choice of blackberry, strawberry or candied pecan topping and whipped butter. Seved with bacon",
         "brunch_menu_link": "none",
         "brunch_menu_scanLink": "none"
     },
     {
         "brunch_menu_id": 44,
         "brunch_menu_name": "Eggs Benedict ",
-        "brunch_menu_description": "prosciutto, poached egg, English muffin,\nhollandaise sauce, fried potato hash",
+        "brunch_menu_description": "prosciutto, poached egg, English muffin, topped with hollandaise sauce. Served with fried potato hash",
         "brunch_menu_link": "none",
         "brunch_menu_scanLink": "none"
     },
     {
         "brunch_menu_id": 54,
         "brunch_menu_name": "Buttermilk Pancakes",
-        "brunch_menu_description": "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter, applewood smoked bacon",
+        "brunch_menu_description": "choice of blackberry, strawberry or candied pecan\ntopping and whipped butter. Served with smoked bacon",
         "brunch_menu_link": "none",
         "brunch_menu_scanLink": "none"
     },
     {
         "brunch_menu_id": 64,
         "brunch_menu_name": "Brunch Steak & Eggs",
-        "brunch_menu_description": "Hanger steak, choice eggs, fried potato hash",
+        "brunch_menu_description": "Bistro steak (NY strip) cooked to guests prefered temperature, 2 eggs cooked to desired way. Served with fried potato hash",
         "brunch_menu_link": "none",
         "brunch_menu_scanLink": "none"
     },
