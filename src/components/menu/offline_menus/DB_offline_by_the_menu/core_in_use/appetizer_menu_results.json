@@ -1,52 +1,52 @@
 [
     {
-        "appetizer_menu_id": 1,
-        "appetizer_menu_name": "Cheese steak egg rolls",
-        "appetizer_menu_description": "Asian style fried eggrolls stuffed with in-house smoked brisket and cheese. served with sweet chilli sauce￼",
-        "appetizer_menu_link": "https://i.postimg.cc/d0rmDNFr/APP-eggrolls.jpg",
-        "appetizer_menu_scanLink": "none"
+        "id": 1,
+        "name": "Cheese steak egg rolls",
+        "description": "Asian style fried eggrolls stuffed with in-house smoked brisket and cheese. served with sweet chilli sauce￼",
+        "link": "https://i.postimg.cc/d0rmDNFr/APP-eggrolls.jpg",
+        "scanLink": "none"
     },
     {
-        "appetizer_menu_id": 11,
-        "appetizer_menu_name": "Artisan bread board",
-        "appetizer_menu_description": "Pretzel, jallapenio cornbread and challa rolls with side of herbal butter. 2 of each",
-        "appetizer_menu_link": "https://i.postimg.cc/Z5gVWydt/APP-bread-board-old.jpg",
-        "appetizer_menu_scanLink": "none"
+        "id": 11,
+        "name": "Artisan bread board",
+        "description": "Pretzel, jallapenio cornbread and challa rolls with side of herbal butter. 2 of each",
+        "link": "https://i.postimg.cc/Z5gVWydt/APP-bread-board-old.jpg",
+        "scanLink": "none"
     },
     {
-        "appetizer_menu_id": 21,
-        "appetizer_menu_name": "Spinach artichoke dip",
-        "appetizer_menu_description": "Cream spinach (cream cheese and spinach) with pickled jallapenios and artichoke hearts topped with pico served  with tortilla chips and croustini",
-        "appetizer_menu_link": "https://i.postimg.cc/63KVZV6S/APP-spinach-dip.jpg",
-        "appetizer_menu_scanLink": "none"
+        "id": 21,
+        "name": "Spinach artichoke dip",
+        "description": "Cream spinach (cream cheese and spinach) with pickled jallapenios and artichoke hearts topped with pico served  with tortilla chips and croustini",
+        "link": "https://i.postimg.cc/63KVZV6S/APP-spinach-dip.jpg",
+        "scanLink": "none"
     },
     {
-        "appetizer_menu_id": 31,
-        "appetizer_menu_name": "Kung Pao Shrimp & Calamari",
-        "appetizer_menu_description": "lightly fried calamari, shrimp, jalapeño, bell pepper, bean sprouts",
-        "appetizer_menu_link": "none",
-        "appetizer_menu_scanLink": "none"
+        "id": 31,
+        "name": "Kung Pao Shrimp & Calamari",
+        "description": "lightly fried calamari, shrimp, jalapeño, bell pepper, bean sprouts",
+        "link": "none",
+        "scanLink": "none"
     },
     {
-        "appetizer_menu_id": 41,
-        "appetizer_menu_name": "Texas Charcuterie Board",
-        "appetizer_menu_description": "Bavarian pretzel topped with molten mozzarella, prosciutto (cured ham), beef bresaola (cured beef), jalapeño sausage, seasonal cheese, fruit, candy pecans, olives, cheese sauce, grain mustard",
-        "appetizer_menu_link": "none",
-        "appetizer_menu_scanLink": "none"
+        "id": 41,
+        "name": "Texas Charcuterie Board",
+        "description": "Bavarian pretzel topped with molten mozzarella, prosciutto (cured ham), beef bresaola (cured beef), jalapeño sausage, seasonal cheese, fruit, candy pecans, olives, cheese sauce, grain mustard",
+        "link": "none",
+        "scanLink": "none"
     },
 
     {
-        "appetizer_menu_id": 61,
-        "appetizer_menu_name": "Deviled Egg Trio",
-        "appetizer_menu_description": "3 eggs cut in half (6 pieces) topped with bacon jam and garnished with chives",
-        "appetizer_menu_link": "none",
-        "appetizer_menu_scanLink": "none"
+        "id": 61,
+        "name": "Deviled Egg Trio",
+        "description": "3 eggs cut in half (6 pieces) topped with bacon jam and garnished with chives",
+        "link": "none",
+        "scanLink": "none"
     },
     {
-        "appetizer_menu_id": 71,
-        "appetizer_menu_name": "Wagyu Meatballs",
-        "appetizer_menu_description": "5 meatballs: ground beef breaded and lightly fried then toasted in the oven. Served in spicy tomato sauce, topped with mozzarella and accompanied with croustini",
-        "appetizer_menu_link": "none",
-        "appetizer_menu_scanLink": "none"
+        "id": 71,
+        "name": "Wagyu Meatballs",
+        "description": "5 meatballs: ground beef breaded and lightly fried then toasted in the oven. Served in spicy tomato sauce, topped with mozzarella and accompanied with croustini",
+        "link": "none",
+        "scanLink": "none"
     }
 ]

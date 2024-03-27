@@ -1,51 +1,51 @@
 [
     {
-        "drink_menu_id": 4,
-        "drink_menu_name": "Whitney",
-        "drink_menu_description": "Stoli Razberi vodka, Cassis (berry liquor), lemon juice, simple syrop, muddled blackberries and champagne. Garnished with blackberry.",
-        "drink_menu_link": "none",
-        "drink_menu_scanLink": "none"
+        "id": 4,
+        "name": "Whitney",
+        "description": "Stoli Razberi vodka, Cassis (berry liquor), lemon juice, simple syrop, muddled blackberries and champagne. Garnished with blackberry.",
+        "link": "none",
+        "scanLink": "none"
     },
     {
-        "drink_menu_id": 14,
-        "drink_menu_name": "Flaming Leah",
-        "drink_menu_description": "Stoli Vodka, strawberries, mint, lime juice, sugar",
-        "drink_menu_link": "none",
-        "drink_menu_scanLink": "none"
+        "id": 14,
+        "name": "Flaming Leah",
+        "description": "Stoli Vodka, strawberries, mint, lime juice, sugar",
+        "link": "none",
+        "scanLink": "none"
     },
     {
-        "drink_menu_id": 24,
-        "drink_menu_name": "Pink Delicious",
-        "drink_menu_description": "Hendrick’s Gin, St. Germain, Peychaud’s Bitters,\nChampagne, grapefruit juice",
-        "drink_menu_link": "none",
-        "drink_menu_scanLink": "none"
+        "id": 24,
+        "name": "Pink Delicious",
+        "description": "Hendrick’s Gin, St. Germain, Peychaud’s Bitters,\nChampagne, grapefruit juice",
+        "link": "none",
+        "scanLink": "none"
     },
     {
-        "drink_menu_id": 34,
-        "drink_menu_name": "The Smoot",
-        "drink_menu_description": "Absolut Vanilla Vodka, Cassis, pineapple juice",
-        "drink_menu_link": "none",
-        "drink_menu_scanLink": "none"
+        "id": 34,
+        "name": "The Smoot",
+        "description": "Absolut Vanilla Vodka, Cassis, pineapple juice",
+        "link": "none",
+        "scanLink": "none"
     },
     {
-        "drink_menu_id": 44,
-        "drink_menu_name": "Jalapeño",
-        "drink_menu_description": "Deep Eddy Vodka, jalapeño, lemon juice, sugar ",
-        "drink_menu_link": "none",
-        "drink_menu_scanLink": "none"
+        "id": 44,
+        "name": "Jalapeño",
+        "description": "Deep Eddy Vodka, jalapeño, lemon juice, sugar ",
+        "link": "none",
+        "scanLink": "none"
     },
     {
-        "drink_menu_id": 54,
-        "drink_menu_name": "Hearsay Old Fashioned",
-        "drink_menu_description": "House Infused Woodford Reserve, Angostura Bitters",
-        "drink_menu_link": "none",
-        "drink_menu_scanLink": "none"
+        "id": 54,
+        "name": "Hearsay Old Fashioned",
+        "description": "House Infused Woodford Reserve, Angostura Bitters",
+        "link": "none",
+        "scanLink": "none"
     },
     {
-        "drink_menu_id": 64,
-        "drink_menu_name": "El Pepino",
-        "drink_menu_description": "Espolon tequila, mint, cucamber, cilantro and lime juice shaken",
-        "drink_menu_link": "none",
-        "drink_menu_scanLink": "none"
+        "id": 64,
+        "name": "El Pepino",
+        "description": "Espolon tequila, mint, cucamber, cilantro and lime juice shaken",
+        "link": "none",
+        "scanLink": "none"
     }
 ]

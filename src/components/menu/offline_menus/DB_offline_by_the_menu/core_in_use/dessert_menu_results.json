@@ -1,23 +1,23 @@
 [
     {
-        "dessert_menu_id": 3,
-        "dessert_menu_name": "Hearsay Bread Pudding",
-        "dessert_menu_description": "Bread pudding drizzled with caramel sauce and accompanied with vanilla bean ice cream. garnished with whip cream and berries",
-        "dessert_menu_link": "https://i.postimg.cc/c4CG82Jp/DESS-bread-pudding.jpg",
-        "dessert_menu_scanLink": "none"
+        "id": 3,
+        "name": "Hearsay Bread Pudding",
+        "description": "Bread pudding drizzled with caramel sauce and accompanied with vanilla bean ice cream. garnished with whip cream and berries",
+        "link": "https://i.postimg.cc/c4CG82Jp/DESS-bread-pudding.jpg",
+        "scanLink": "none"
     },
     {
-        "dessert_menu_id": 13,
-        "dessert_menu_name": "Creme brulee",
-        "dessert_menu_description": "Traditional creme brulee with sugar-caramel crust and garnished with whip cream and berries",
-        "dessert_menu_link": "https://i.postimg.cc/T27m2vbB/DESS-cream-brulee2.jpg",
-        "dessert_menu_scanLink": "none"
+        "id": 13,
+        "name": "Creme brulee",
+        "description": "Traditional creme brulee with sugar-caramel crust and garnished with whip cream and berries",
+        "link": "https://i.postimg.cc/T27m2vbB/DESS-cream-brulee2.jpg",
+        "scanLink": "none"
     },
     {
-        "dessert_menu_id": 23,
-        "dessert_menu_name": "Chocolate Cheesecake",
-        "dessert_menu_description": "Slice of chocolate cheesecake with whip cream for garnish",
-        "dessert_menu_link": "none",
-        "dessert_menu_scanLink": "none"
+        "id": 23,
+        "name": "Chocolate Cheesecake",
+        "description": "Slice of chocolate cheesecake with whip cream for garnish",
+        "link": "none",
+        "scanLink": "none"
     }
 ]
